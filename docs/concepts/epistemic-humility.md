@@ -4,7 +4,7 @@ references:
 - 'Dalmiya, Vrinda. 2016. Caring to Know: Comparative Care Ethics, Feminist Epistemology
   and the Mahabharata. New York, NY: Oxford University Press.'
 definitions:
-- (cited in Alcoff 2022)
+- (cited in Alcoff 2022)>
 examples: []
 relations:
 - type: counteracts

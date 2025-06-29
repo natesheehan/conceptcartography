@@ -23,7 +23,7 @@ relations:
 
 - "is a discourse community marked by its subordinate status to,
 
-and some degree of exclusion by, a wider, dominant public" (Fraser 1990)
+and some degree of exclusion by, a wider, dominant public" (Fraser 1990).
 
 ## 🔗 Relations
 

@@ -1,0 +1,1574 @@
+{
+  "nodes": [
+    {
+      "id": "agnotology",
+      "title": "agnotology",
+      "definition": "> \"a methodological tool that Robert N. Proctor has called “agnotology”—the study of culturally-induced ignorances—that serves as a counterweight to more traditional concerns for epistemology. Agnotology refocuses questions about “how we know” to include questions about what we do not know, and why not. Ignorance is often not merely the absence of knowledge but an outcome of cultural and political struggle. Nature, after all, is infinitely rich and variable. What we know or do not know at any one time or place is shaped by particular histories, local and global priorities, funding patterns, institutional and disciplinary hierarchies, personal and professional myopia, and much else as well\" (Schiebinger 2004, 3).",
+      "reference": "- Schiebinger, Londa. 2004. _Plants and Empire: Colonial Bioprospecting in the Atlantic World_. Cambridge, Mass.: Harvard University Press. https://hdl.handle.net/2027/heb06217.0001.001\n---",
+      "filename": "agnotology.md"
+    },
+    {
+      "id": "cancelling out explanation",
+      "title": "cancelling out explanation",
+      "definition": "> \"bias and error are more likely to be cancelled out in a group setting\" (McBrayer 2024, 615).",
+      "reference": "- McBrayer, Justin P. 2024. “The Epistemic Benefits of Ideological Diversity.” _Acta Analytica_ 39:611–26. https://doi.org/10.1007/s12136-023-00582-z.\n---",
+      "filename": "cancelling-out-explanation.md"
+    },
+    {
+      "id": "cognitive/epistemic value",
+      "title": "cognitive/epistemic value",
+      "definition": "> Longino: Cognitive/epistemic values/virtues are they are properties that theories can have or can have to a greater or lesser degree, and t are desiderata. Typically because considered conductive to truth, but n.b. also import significant socio-political values. Not context-independent and universally applicable.\n> Carrier: Epistemic values relate to obtaining knowledge or understanding (not truth per se), express requirements of significance/pursuit/non-triviality and confirmation/relevance of evidence \"We are the ones who make a choice of the kind of knowledge we prefer\" (Carrier 2013, 2555).",
+      "reference": "- 'Carrier, Martin. “Values and Objectivity in Science: Value-Ladenness, Pluralism and the Epistemic Attitude.” Science & Education 22, no. 10 (2013): 2547–68. https://doi.org/10.1007/s11191-012-9481-5.'\n- 'Longino, Helen E. “Cognitive and Non-Cognitive Values in Science: Rethinking the Dichotomy.” In Feminism, Science, and the Philosophy of Science, edited by Lynn Hankinson Nelson and Jack Nelson. Springer, 1996. https://doi.org/10.1007/978-94-009-1742-2_3.'\n---\n- Carrier, Martin. “Values and Objectivity in Science: Value-Ladenness, Pluralism and the Epistemic Attitude.” Science & Education 22, no. 10 (2013): 2547–68. https: doi.org/10.1007/s11191-012-9481-5.\n---",
+      "filename": "cognitive-epistemic-value.md"
+    },
+    {
+      "id": "commonplace practitioners",
+      "title": "commonplace practitioners",
+      "definition": "> \"epistemic community members who are overrepresented in the community\" (Fehr and Minji 2022, 4).",
+      "reference": "- 'Fehr, Carla, and Jones, Janet Minji. \"Culture, Exploitation, and Epistemic Approaches to Diversity.\" Synthese 200, no. 465 (2022). https://doi.org/10.1007/s11229-022-03787-8.\n---",
+      "filename": "commonplace-practitioners.md"
+    },
+    {
+      "id": "contributory injustice",
+      "title": "contributory injustice",
+      "definition": "> \"Contributory injustice is caused by an epistemic agent’s situated ignorance, in the form of willful hermeneutical ignorance, in maintaining and utilizing structurally prejudiced hermeneutical resources that result in epistemic harm to the epistemic agency of a knower\" (Dotson 2012, 31).\n> \"Contributory injustices occur when knowers utilize epistemic resources that are inapt for understanding the potential contributions of particular knowers to our collective knowledge pool and thereby engage in a form of willful hermeneutical ignorance that refuses to employ more apt epistemic resources for receiving and appropriately responding to those contributions (Dotson 2012, 31–32). In such cases, the knower who commits the wrong may treat other knowers as competent and trustworthy. Moreover, the knower who commits the wrong may be open to adjusting and developing currently shared epistemic resources\" (Pohlhaus 2012, 20).",
+      "reference": "- Dotson, Kristie. \"A Cautionary Tale: On Limiting Epistemic Oppression.\" Frontiers: A Journal of Women Studies 33, no. 1 (2012): 24-47. https://dx.doi.org/10.1353/fro.2012.a472779.\n- Pohlhaus, Gaile Jr. \"Varieties of Epistemic Injustice.\" In The Routledge Handbook of Epistemic Injustice, edited by I. J. Kidd, L. Medina, G. Jr. Pohlhaus. Routledge, 2017. https: doi.org/10.4324/9781315212043.\n---",
+      "filename": "contributory-injustice.md"
+    },
+    {
+      "id": "creative agency",
+      "title": "creative agency",
+      "definition": "> \"an agent has exercised creative agency when they have autonomously determined the work’s salient features and how these will be realized\" (Anscomb 2020, 10). \"Creativity as a kind of agency calls for a balance between directed control and spontaneity in order to realize novelty and value. The former requires that agents aim to produce a certain range of values that are relevant for the purpose, that they ‘exercise knowledge of how’ to produce a result with the relevant values (Gaut 2018, 131–2), and exhibit ‘an evaluative ability directed to the task at hand’ (Gaut 2010, 1040). Another way of putting this is to say that creative making ‘must involve flair’ in producing something valuable and original (Gaut 2003, 151). Hence, accidentally spilling a pot of paint and causing an aesthetically pleasing pattern on a canvas lying on the floor, for example, will not count as an instance of creativity. Flair, or directed control then, excludes purely by chance cases or mechanical search procedures (whereby one systematically works through all the relevant possibilities) which result in valuable novelty as being creative\" (Anscomb 2020, 8).",
+      "reference": "- Anscomb, Claire. “Visibility, Creativity, and Collective Working Practices in Art and Science.” European Journal for Philosophy of Science 11, no. 5 (2020). https:doi.org/10.1007/s13194-020-00310-z.\n- Gaut, B. N. \"The Value of Creativity.\" In Creativity and Philosophy, edited by B. N. Gau, & M. Kieran. Routledge, 2018.\n---",
+      "filename": "creative-agency.md"
+    },
+    {
+      "id": "credibility bias",
+      "title": "credibility bias",
+      "definition": "> \"There is a large body of literature demonstrating a range of biases against women in STEM\" (Fehr and Minji 2022, 11)",
+      "reference": "- Fehr, Carla, and Janet Minji Jones. 2022. ‘Culture, Exploitation, and Epistemic Approaches to Diversity’. Synthese 200 (6): 465. https://doi.org/10.1007/s11229-022-03787-8.\n---",
+      "filename": "credibility-bias.md"
+    },
+    {
+      "id": "discriminatory epistemic injustice",
+      "title": "discriminatory epistemic injustice",
+      "definition": "> fundatmentally a form of (direct or indirect)discrimination. e.g., the cause of testimonial injustice is a prejudice. Meant to leave room for a kind of epistemic injustice that is primarly \"distributive injustice\" i.e., someone receiving less than their fair share of an epistemic good, such as education or access to expert advice or information (Fricker 2007, 53; cf. David Coady 2010; 2017)",
+      "reference": "- Fricker, Miranda. \"Evolving Concepts of Epistemic Injustice.\" In The Routledge Handbook of Epistemic Injustice, edited by I. J. Kidd, L. Medina, G. Jr. Pohlhaus. Routledge, 2017. https://doi.org/10.4324/9781315212043.\n- Coady, David. “Two Concepts of Epistemic Injustice.” Episteme 7, no. 2 (2010): 101–13. https://doi.org/10.3366/epi.2010.0001.\n- Coady, David. \"Epistemic Injustice as Distributive Injustice.\" In The Routledge Handbook of Epistemic Injustice, edited by I.J. Kidd, J. Medina, and G. Pohlhaus, Jr. Routledge, 2017. https://doi.org/10.4324/9781315212043\n---",
+      "filename": "discriminatory-epistemic-injustice.md"
+    },
+    {
+      "id": "disorientation",
+      "title": "disorientation",
+      "definition": "> \"Disorientation involves failed orientations: bodies inhabit spaces that do not extend their shape, or use objects that do not extend their reach. At this moment of failure, a here becomes strange\" (Ahmed 2017, 133).",
+      "reference": "---",
+      "filename": "disorientation.md"
+    },
+    {
+      "id": "distributive epistemic injustice",
+      "title": "distributive epistemic injustice",
+      "definition": "> \"injustice in the distribution of the epistemic good of knowledge\" (Coady 2010, 112)",
+      "reference": "- Coady, David. “Two Concepts of Epistemic Injustice.” Episteme 7, no. 2 (2010): 101–13. https://doi.org/10.3366/epi.2010.0001.\n---",
+      "filename": "distributive-epistemic-injustice.md"
+    },
+    {
+      "id": "diverse practitioner",
+      "title": "diverse practitioner",
+      "definition": "> \"a member of an epistemic community who is currently underrepresented in terms of their social and material location or in terms of their projects and perspectives\"  (Fehr and Minji 2022, 4).",
+      "reference": "- Fehr, Carla, and Jones, Janet Minji. \"Culture, Exploitation, and Epistemic Approaches to Diversity.\" Synthese 200, no. 465 (2022). [https:doi.org/10.1007/s11229-022-03787-8.](https://doi.org/10.1007/s11229-022-03787-8)\n---",
+      "filename": "diverse-practitioner.md"
+    },
+    {
+      "id": "diversity advocates",
+      "title": "diversity advocates",
+      "definition": "> \"'How do we kick people out?' must be understood as a reaction against norms of openness or structurelessness that have set terms for association with which diversity advocates disagree. Many of diversity advocates’ undertakings seek to challenge and recalibrate the norms of the wider culture of voluntaristic technical production. Others provide alternative spaces for hacking and making outside the mainstream. Both strategies are important within diversity advocacy. And both contrast with modes of self-organization that would allow extant terms of association to proceed organically.\" (Dunbar-Hester 2019, 52)",
+      "reference": "- Dunbar-Hester, Christina. _Hacking Diversity: The Politics of Inclusion in Open Technology Cultures._ Princeton University Press, 2020. https://doi.org/10.2307/j.ctvhrd181.\n---",
+      "filename": "diversity-advocates.md"
+    },
+    {
+      "id": "diversity-beats-ability (dab)",
+      "title": "diversity-beats-ability (dab)",
+      "definition": "> \"groups of diverse problem solvers can outperform groups of high-ability problem solvers\" (Reijula and Kuorikoski 2021, 895).",
+      "reference": "- Reijula, Samuli, and Jaakko Kuorikoski. “The Diversity-Ability Trade-Off in Scientific Problem Solving.” Philosophy of Science 88, no. 5 (2021): 894–905. https://doi.org/10.1086/714938.\n---",
+      "filename": "diversity-beats-ability-dab.md"
+    },
+    {
+      "id": "diversity can benefit information elaboration (dbie)",
+      "title": "diversity can benefit information elaboration (dbie)",
+      "definition": "> \"demographic diversity can improve performance by enhancing information elaboration (IE), the process through which information and perspectives distributed among the group are elicited and assessed\" (Steel et al. 2021, 1288).",
+      "reference": "- Steel, D., Fazelpour, S., Crewe, B. et al. \"Information Elaboration and Epistemic Effects of Diversity.\" Synthese 198, 1287–1307 (2021). https://doi.org/10.1007/s11229-019-02108-w\n---",
+      "filename": "diversity-can-benefit-information-elaboration-dbie.md"
+    },
+    {
+      "id": "diversity development work",
+      "title": "diversity development work",
+      "definition": "> \"Communities and members of communities who cultivate those with dissenting perspectives by taking steps to train, hire, or retain those with underrepresented theoretical perspectives, social locations, or to reward them for their epistemic diversity work, or to nurture cultures that are conducive to the development of dissenting views are performing diversity development work\" (Fehr 2011,  145).",
+      "reference": "- Fehr, Carla. “What Is in It for Me? The Benefits of Diversity in Scientific Communities.” In Feminist Epistemology and Philosophy of Science: Power in Knowledge, edited by Heidi Grasswick. Springer, 2011. DOI:10.1007/978-1-4020-6835-5.\n---",
+      "filename": "diversity-development-work.md"
+    },
+    {
+      "id": "diversity free riding",
+      "title": "diversity free riding",
+      "definition": "> \"A diversity free rider is either an individual or community who makes use of existing diversity without increasing the diversity of any formal community or without increasing the total representation of diverse voices\" (Fehr 2011, 141).",
+      "reference": "- Fehr, Carla. “What Is in It for Me? The Benefits of Diversity in Scientific Communities.” In Feminist Epistemology and Philosophy of Science: Power in Knowledge, edited by Heidi Grasswick. Springer, 2011. DOI:10.1007/978-1-4020-6835-5\n---",
+      "filename": "diversity-free-riding.md"
+    },
+    {
+      "id": "diversity work",
+      "title": "diversity work",
+      "definition": "> \"Diversity work might be the work you do when you disappear from the room. You have to work to appear. Or diversity work might be the requirement to give an account of yourself: how you got somewhere. Or diversity work might be the work you do to avoid the necessity of having to explain your arrival.\" (Ahmed, 2017, p. 127) \"What I am calling diversity work involves transforming questions into a catalog. A catalog does not assume each question as the same question, but it is a way of hearing continuities and resonances\" (Ahmed 2017,  132).",
+      "reference": "- Ahmed, Sara. _Living a Feminist Life_. Duke University Press, 2017. https://doi.org/10.1215/9780822373377.\n---",
+      "filename": "diversity-work.md"
+    },
+    {
+      "id": "effective epistemic diversity",
+      "title": "effective epistemic diversity",
+      "definition": "> \"Effective epistemic diversity describes a community that contains members who hold different background beliefs and makes use of that diversity to generate and evaluate theories, hypotheses and data from the widest possible range of perspectives. In this kind of community, members feel free to develop and offer dissenting views, their dissent is given uptake and they are granted equality of intellectual authority with those who hold more common or more central perspectives.\" (Fehr 2011, 147-8).",
+      "reference": "- Fehr, Carla. 2011. “What Is in It for Me? The Benefits of Diversity in Scientific Communities.” In Feminist Epistemology and Philosophy of Science: Power in Knowledge, edited by Heidi Grasswick, 133–54. New York: Springer. DOI:10.1007/978-1-4020-6835-5.\n---",
+      "filename": "effective-epistemic-diversity.md"
+    },
+    {
+      "id": "epistemic advantage thesis",
+      "title": "epistemic advantage thesis",
+      "definition": "> \"Some standpoints, specifically the standpoints of marginalized or oppressed groups, are epistemically advantaged (at least in some contexts)\" (Intemann 2010, 783).",
+      "reference": "- Intemann, Kristen. “25 Years of Feminist Empiricism and Standpoint Theory: Where Are We Now?” Hypatia 25 no. 4 (2010): 778–96. https://doi.org/10.1111/j.1527-2001.2010.01138.x\n---",
+      "filename": "epistemic-advantage-thesis.md"
+    },
+    {
+      "id": "epistemic agential injustice",
+      "title": "epistemic agential injustice",
+      "definition": "> '\"Agential epistemic injustice involves the discriminatory mistreatment of the epistemic agency of members of marginalized groups; more specifically, it consists in cases in which the exercise of the epistemic agency of members of marginalized groups is unfairly constrained, manipulated, or subverted\" (Medina 2022, 322).",
+      "reference": "- Medina, José. “Group Agential Epistemic Injustice: Epistemic Disempowerment and Critical Defanging of Group Epistemic Agency1.” Philosophical Issues 32, no. 1 ( 2022): 320–34. https://doi.org/10.1111/phis.12221.\n---",
+      "filename": "epistemic-agential-injustice.md"
+    },
+    {
+      "id": "epistemic blinkering",
+      "title": "epistemic blinkering",
+      "definition": "> Narrators' choices about what to foreground when recounting history of science, benign form of epistemic severing",
+      "reference": "- Massimi, Michela. Perspectival Realism. Oxford Studies in Philosophy of Science.Oxford University Press, 2022.\n---",
+      "filename": "epistemic-blinkering.md"
+    },
+    {
+      "id": "epistemic creativity",
+      "title": "epistemic creativity",
+      "definition": "> Quoting Marx: \"the sciences offer distinctive forms of epistemic creativity, too: our creative transformation of the world requires us to self-consciously take up our potential as the creature who ‘creates and posits objects’, imposing conceptual and theoretical order onto the world.\" (Kidd 2020, 12).",
+      "reference": "- Kidd, Ian James. \"Creativity in science and the ‘anthropological turn’ in virtue theory.\" Euro Jnl Phil Sci 11, no. 15 (2021). https://doi.org/10.1007/s13194-020-00334-5\n---",
+      "filename": "epistemic-creativity.md"
+    },
+    {
+      "id": "epistemic death",
+      "title": "epistemic death",
+      "definition": "> \"Under conditions of epistemic death, subjects owe nothing to those practices and communities that contribute to their annihilation; epistemic obligations (such as answering questions, telling the truth, sharing information, etc.) are suspended because one should not be expected to cooperate with practices that undermine one’s own status and agency or that of one’s fellows. Moreover, besides relaxing and suspending obligations, epistemic death also creates a right (if not a duty) to fight epistemically by any means necessary (including the right to lie, to hide, to sabotage, to silence others, etc.), demonstrating loyalty and solidarity only with alternatives epistemic communities (communities of resistance)\" (Medina 2018, 255).",
+      "reference": "- Medina, José. \"Epistemic Injustice and Epistemologies of Ignorance.\" In The Routledge Companion to Philosophy of Race, edited by Paul C. Taylor, Linda Martín Alcoff, Luvell Anderson. Routledge, 2017. https://doi.org/10.4324/9781315884424\n- Baldwin, James. “The Fire Next Time.” In Collected Essays, Edited by Toni Morrison. Penguin Random House, 1998.\n---",
+      "filename": "epistemic-death.md"
+    },
+    {
+      "id": "epistemic disadvantage",
+      "title": "epistemic disadvantage",
+      "definition": "> \"Epistemic disadvantage occurs when non-deliberate, asymmetrical relations exclude person(s) from social participation, leading  to an intellectual or moral harm. In other words, epistemic disadvantage marks when a person or group is warrantedly excluded from knowledge exchanges, but the exclusion results in an intellectual or moral harm.\" (Goldstein 2022, 1862)",
+      "reference": "- Goldstein, Rena Beatrice. “Epistemic Disadvantage.” Philosophia 50, no. 4 (2022): 1861–78. https://doi.org/10.1007/s11406-021-00465-w.\n---",
+      "filename": "epistemic-disadvantage.md"
+    },
+    {
+      "id": "epistemic diversity work",
+      "title": "epistemic diversity work",
+      "definition": "> \"Making use of existing diversity involves using people with theoretical perspectives or social locations different from one’s own as a means of doing better science by using them to increase the diversity of views in one’s communities. ... The person being used as a source of diversity is doing what I call epistemic diversity work. Such work can be manifested in a number of ways, including talking to members of a community about their research and commenting on or reviewing grant applications or papers\" (Fehr 2011, 141).",
+      "reference": "- Fehr, Carla. “What Is in It for Me? The Benefits of Diversity in Scientific Communities.” In Feminist Epistemology and Philosophy of Science: Power in Knowledge, edited by Heidi Grasswick. Springer, 2011. DOI:10.1007/978-1-4020-6835-5.\n---",
+      "filename": "epistemic-diversity-work.md"
+    },
+    {
+      "id": "epistemic diversity",
+      "title": "epistemic diversity",
+      "definition": "> \"A community is epistemically diverse when it includes members who hold a range of different background assumptions, and theoretical and methodological perspectives\" (Fehr 2011, 146).\n> \"We call ‘epistemic diversity’ the ability or possibility of producing diverse and rich epistemic apparati to make sense of the world around us. Such epistemic apparati may be sophisticated philosophical conceptualisations or theories, or their corresponding folk theories that each one of us has, in virtue of their experience as epistemic agent and language user in given cultural contexts\" (Gobbo and Russo 2020, 185).\n> \"differences among situated knowers ... These include differences in cognitive capacity, experience, and expertise; in access to information and the heuristics that make it intelligible; and in motivating interests and orienting standpoint\" (Wylie, 2006, p. 1).\n> \"the condition or fact of being different or varied, which affects the development and/or understanding of knowledge\" (Leonelli, 2022).",
+      "reference": "- Fehr, Carla. “What Is in It for Me? The Benefits of Diversity in Scientific Communities.” In Feminist Epistemology and Philosophy of Science: Power in Knowledge, edited by Heidi Grasswick. Springer, 2011. DOI:10.1007/978-1-4020-6835-5\n- Gobbo, Federico, and Federica Russo. “Epistemic Diversity and the Question of Lingua Franca in Science and Philosophy.” Foundations of Science 25, no. 1 (2020): 185–207. https://doi.org/10.1007/s10699-019-09631-6.\n- Leonelli, Sabina. “Open Science and Epistemic Diversity: Friends or Foes?” Philosophy of Science 89, no. 5 (2022): 991–1001. https://doi.org/10.1017/psa.2022.45.\n- Wylie, Alison. “Introduction: When Difference Makes a Difference.” Episteme 3, no. 1–2 (2006): 1–7. https://doi.org/10.3366/epi.2006.3.1-2.1.\n---\n- Gobbo, Federico, and Federica Russo. 2020. “Epistemic Diversity and the Question of Lingua Franca in Science and Philosophy.” Foundations of Science 25 (1): 185–207. https: doi.org/10.1007/s10699-019-09631-6.\n---\n- Leonelli S. Open Science and Epistemic Diversity: Friends or Foes? Philosophy of Science. 2022;89(5):991-1001. [doi:10.1017/psa.2022.45](https://doi.org/10.1017/psa.2022.45)\n---\n- Wylie, Alison. 2006. “Introduction: When Difference Makes a Difference.” Episteme 3 (1–2): 1–7. https: doi.org/10.3366/epi.2006.3.1-2.1.\n---",
+      "filename": "epistemic-diversity.md"
+    },
+    {
+      "id": "epistemic exclusion",
+      "title": "epistemic exclusion",
+      "definition": "> \"an infringement on the epistemic agency of knowers that reduces her or his ability to participate in a given epistemic community” (Dotson 2012, 24).",
+      "reference": "- Dotson, Kristie. “A Cautionary Tale: On Limiting Epistemic Oppression.” Frontiers: A Journal of Women Studies 33, no. 1 (2012): 24–47. https://doi.org/10.5250/fronjwomestud.33.1.0024.\n---",
+      "filename": "epistemic-exclusion.md"
+    },
+    {
+      "id": "epistemic exploitation",
+      "title": "epistemic exploitation",
+      "definition": "> \"Epistemic exploitation occurs when privileged persons compel marginalized persons to produce\nan education or explanation about the nature of the oppression they face\" (Bernstein 2016, 578).",
+      "reference": "- Berenstain, Nora. \"Epistemic Exploitation.\" Ergo 3, no. 22 (2016). https://doi.org/10.3998/ergo.12405314.0003.022\n- Pohlhaus, Gaile Jr. “Epistemic Agency Under Oppression.” Philosophical Papers 49, no. 2 (2020): 233–51. https://doi.org/10.1080/05568641.2020.1780149\n- Fehr, Carla, and Janet Minji Jones. 2022. ‘Culture, Exploitation, and Epistemic Approaches to Diversity’. Synthese 200 (6): 465. https://doi.org/10.1007/s11229-022-03787-8.\n---",
+      "filename": "epistemic-exploitation.md"
+    },
+    {
+      "id": "epistemic extractivism",
+      "title": "epistemic extractivism",
+      "definition": "> \"The key feature of an extractivist epistemology, I argue, is the way in which it treats this epistemic resource as separable from its origin, without subsequent loss, rendering it into a commodity with exchange value over which exclusive rights can be contractually defined, protected, and enforced\" (Alcoff 2022, 5).",
+      "reference": "- Alcoff, Linda Martín. “Extractivist Epistemologies.” Tapuya: Latin American Science, Technology and Society 5, no. 1 (2022). doi:10.1080/25729861.2022.2127231.\n---",
+      "filename": "epistemic-extractivism.md"
+    },
+    {
+      "id": "epistemic freedom",
+      "title": "epistemic freedom",
+      "definition": "> \" Epistemic freedom is about democratizing ‘knowledge’ from its current rendition in the singular into its plural known as ‘knowledges’. It is also ranged against overrepresentation of Eurocentric thought in knowledge, social theory and education. Epistemic freedom is foundational in the broader decolonization struggle because it enables the emergence of the necessary critical decolonial consciousness\"  (Ndlovu-Gatsheni 2018, 4).",
+      "reference": "- Ndlovu-Gatsheni, Sabelo. _Epistemic freedom in Africa: Deprovincialization and decolonization._ Routledge, 2018.\n---",
+      "filename": "epistemic-freedom.md"
+    },
+    {
+      "id": "epistemic humility",
+      "title": "epistemic humility",
+      "definition": "> (cited in Alcoff 2022)",
+      "reference": "- Dalmiya, Vrinda. 2016. Caring to Know: Comparative Care Ethics, Feminist Epistemology and the Mahabharata. New York, NY: Oxford University Press.\n---",
+      "filename": "epistemic-humility.md"
+    },
+    {
+      "id": "epistemic injustice",
+      "title": "epistemic injustice",
+      "definition": "> \"a wrong done to someone specifically in their capacity as a knower.\" (Fricker, 2007, p. 1)",
+      "reference": "- Fricker, Miranda, 'Testimonial Injustice', Epistemic Injustice: Power and the Ethics of Knowing (Oxford, 2007; online edn, Oxford Academic, 1 Sept. 2007), https: doi.org/10.1093/acprof:oso/9780198237907.003.0002\n---",
+      "filename": "epistemic-injustice.md"
+    },
+    {
+      "id": "epistemic labor invalidation",
+      "title": "epistemic labor invalidation",
+      "definition": "> \"disregard and devalue certain sorts of epistemic activity, invalidating the epistemic labor necessary for completing epistemic tasks\" (Pohlhaus, 2017, p. 21)",
+      "reference": "- Pohlhaus, Gaile Jr. 2017. \"Varieties of epistemic injustice\" in Kidd, I. J., Medina, J., Pohlhaus, G., & Jr (Eds.). The Routledge Handbook of Epistemic Injustice. Routledge: 13-26 https: doi.org/10.4324/9781315212043\n---",
+      "filename": "epistemic-labor-invalidation.md"
+    },
+    {
+      "id": "epistemic oppression",
+      "title": "epistemic oppression",
+      "definition": "> \"Epistemic oppression refers to persistent epistemic exclusion that hinders one’s contribution to knowledge production. Epistemic exclusion, here, will be understood as an unwarranted infringement on the epistemic agency of knowers. Epistemic agency, in this analysis, refers to the ability to utilize persuasively shared epistemic resources within a given community of knowers in order to participate in knowledge production and, if required, the revision of those same resources.\" (Dotson, 2014, p. 115)",
+      "reference": "- Dotson, Kristie. 2014. “Conceptualizing Epistemic Oppression.” Social Epistemology 28 (2): 115–38. https: doi.org/10.1080/02691728.2013.782585.\n---",
+      "filename": "epistemic-oppression.md"
+    },
+    {
+      "id": "epistemic power",
+      "title": "epistemic power",
+      "definition": "> \"Epistemic power refers to relations of privilege and underprivileged afforded via different social positions, relevant resources and/or epistemological systems with respect to knowledge production. It is often bound up with social, political and economic power. However, it is distinct insofar as epistemic power can come apart from these other forms of power.\" (Dotson, 2014, p. 125)",
+      "reference": "- Dotson, Kristie. 2014. “Conceptualizing Epistemic Oppression.” Social Epistemology 28 (2): 115–38. https: doi.org/10.1080/02691728.2013.782585.\n---",
+      "filename": "epistemic-power.md"
+    },
+    {
+      "id": "epistemic severing",
+      "title": "epistemic severing",
+      "definition": "> \"Epistemic severing is the act of cutting off specific historically and culturally situated communities to historically remove or blur their contbutions to historical lineages in the scientific knowledge production.\" (Massimi, 2022, p. 350)",
+      "reference": "- Massimi, Michela. 2022. Perspectival Realism. Oxford Studies in Philosophy of Science. Oxford, New York: Oxford University Press.\n---",
+      "filename": "epistemic-severing.md"
+    },
+    {
+      "id": "epistemic trademarking",
+      "title": "epistemic trademarking",
+      "definition": "> Appropriation and branding of bodies of knowledge claims and practices as a trademark of one community. \"A label or mark in scientific discourse (e.g. ‘Maxwell’s equations’) becomes an epistemic trademark (e.g. ‘Maxwellian electromagnetic theory’) when it ends up concealing the complex historical lineages and blurring the epistemic contributions of various communities.\" (Massimi, 2022, p. 356)",
+      "reference": "- Massimi, Michela. 2022. Perspectival Realism. Oxford Studies in Philosophy of Science. Oxford, New York: Oxford University Press.\n---",
+      "filename": "epistemic-trademarking.md"
+    },
+    {
+      "id": "epistemic trust injustice",
+      "title": "epistemic trust injustice",
+      "definition": "> \"Epistemic trust injustices occur when, due to the forces of oppression, the conditions required to ground one’s trust in experts cannot be met for members of particular subordinated groups. ... In the case of a subjugated group that has experienced a history of oppression, a preponderance of evidence against the epistemic trustworthiness of scientific communities (leading to responsibly-placed distrust rather than responsible trust) can result when those scientific communities have participated in and contributed to that very history of oppression.\" (Grasswick, 2017, 319)",
+      "reference": "- Grasswick, Heidi. 2017. “Epistemic Injustice in Science.” In The Routledge Handbook of Epistemic Injustice, edited by Ian James Kidd, José Medina, and Gaile Pohlhaus Jr., 313–23. London: Routledge.\n---",
+      "filename": "epistemic-trust-injustice.md"
+    },
+    {
+      "id": "epistemic virtue",
+      "title": "epistemic virtue",
+      "definition": "> \"An attractive development in contemporary philosophy of science is an increased interest in the significance to scientific enquiry of various virtues – excellent character traits, attitudes, sensibilities, and ways of thinking. Popular candidates include curiosity, open-mindedness, and the procedural epistemic virtues, like diligence and conscientiousness (Paternotte and Ivanova 2017).\" (Kidd, 2020, p.1)",
+      "reference": "- Kidd, Ian James. 2020. “Creativity in Science and the ‘Anthropological Turn’ in Virtue Theory.” European Journal for Philosophy of Science 11 (1): 15. https: doi.org/10.1007/s13194-020-00334-5.\n---",
+      "filename": "epistemic-virtue.md"
+    },
+    {
+      "id": "epistemically disadvantaged identities",
+      "title": "epistemically disadvantaged identities",
+      "definition": "> \"in the arena of knowers there are epistemically disadvantaged identities. ... they are constructed as being suggestible, gullible, or vengeful. Their testimony is discredited; their memories are questioned. In instances such as these, it is not simply facts, events, practices, or technologies that are rendered not known, but individuals and groups who are rendered \"not knowers.\" They are constructed as untrustworthy. Such individuals lack what Lorraine Code identified as key to being counted as a knowers.\" (Tuana, 2006, p. 13)",
+      "reference": "- Tuana, Nancy. 2006. “The Speculum of Ignorance: The Women’s Health Movement and Epistemologies of Ignorance.” Hypatia 21 (3): 1–19. https: doi.org/10.1111/j.1527-2001.2006.tb01110.x.\n---",
+      "filename": "epistemically-disadvantaged-identities.md"
+    },
+    {
+      "id": "epistemological resistance movement",
+      "title": "epistemological resistance movement",
+      "definition": "> \"In this sense, the women's health movement was an epistemological resistance movement geared at undermining the production of ignorance about women's health and women's bodies in order to critique and extricate women from oppressive systems often based on this ignorance, as well as creating liberatory knowledges.' While one aspect of the women's health movement was to make available to women basic medical knowledge that at that time was accessible only to health-care professionals, an equally important goal of the women's health movement was to reexamine traditional medicine, not simply in order to \"get it right,\" but rather to transform our knowledge of women's bodies so as to remove oppression, to augment women's lives, and to transform society.\" (Tuana, 2006, p.2)",
+      "reference": "- Tuana, Nancy. 2006. “The Speculum of Ignorance: The Women’s Health Movement and Epistemologies of Ignorance.” Hypatia 21 (3): 1–19. https: doi.org/10.1111/j.1527-2001.2006.tb01110.x.\n---",
+      "filename": "epistemological-resistance-movement.md"
+    },
+    {
+      "id": "epistemologies of ignorance",
+      "title": "epistemologies of ignorance",
+      "definition": "",
+      "reference": "- Tuana, Nancy. 2006. “The Speculum of Ignorance: The Women’s Health Movement and Epistemologies of Ignorance.” Hypatia 21 (3): 1–19. https: doi.org/10.1111/j.1527-2001.2006.tb01110.x.\n- Sullivan, S. (with Tuana, N.). (2007). Race and Epistemologies of Ignorance. State University of New York Press.\n---",
+      "filename": "epistemologies-of-ignorance.md"
+    },
+    {
+      "id": "extracted speech",
+      "title": "extracted speech",
+      "definition": "> \"epistemic and social coercion may be used to produce testimony that is subordinating\" (Pohlhaus, 2017, p. 22)",
+      "reference": "- McKinney, R. (2016) “Extracted speech,” Social Theory and Practice, 42(2): 258–284.\n---",
+      "filename": "extracted-speech.md"
+    },
+    {
+      "id": "feminist empiricism",
+      "title": "feminist empiricism",
+      "definition": "> \"Feminist empiricism aims to identify gender bias in the content of science and to improve upon empiricist methodologies to overcome such bias.\" (Bueter, 2024, p. 25)",
+      "reference": "- Bueter, Anke. 2024. Feminist Philosophy of Science. Cambridge: Cambridge University Press. https: doi.org/10.1017/9781108956055.\n---",
+      "filename": "feminist-empiricism.md"
+    },
+    {
+      "id": "first-level surplus information",
+      "title": "first-level surplus information",
+      "definition": "> “the surplus information” (Bagwala, 2024, p. 6) one agent has over another is known as first-level surplus information.",
+      "reference": "- Bagwala, A. (2024). On informational injustice and epistemic exclusions. Synthese, 203(6), 194. https: doi.org/10.1007/s11229-024-04636-6\n---",
+      "filename": "first-level-surplus-information.md"
+    },
+    {
+      "id": "first order epistemic exclusion",
+      "title": "first order epistemic exclusion",
+      "definition": "> \"A first-order epistemic exclusion follows from a persistent compromise of one’s epistemic agency due to inefficiency within shared epistemic resources. That is, a first-order epistemic exclusion is an exclusion that results from the incompetent functioning of some aspect of shared epistemic resources with respect to some goal or value.\" (Dotson, 2014, p. 123) \"first-order changes and single-loop processes constitute the minimal changes necessary to address an epistemic exclusion that results from inefficiencies within shared epistemic resources because the resources themselves are not in question, just the application of the resources\" (Dotson, 2014, p. 125)\n> \"pre-emptively regarding a person as unreliable or incapable of participating in particular epistemic systems and so impede epistemic agency by barring them from full participation in those systems.\" (Pohlhaus, 2014, p. 235)",
+      "reference": "- Dotson, Kristie. 2014. “Conceptualizing Epistemic Oppression.” Social Epistemology 28 (2): 115–38. https: doi.org/10.1080/02691728.2013.782585.\n- Pohlhaus Jr., Gaile. 2020. “Epistemic Agency Under Oppression.” Philosophical Papers 49 (2): 233–51. https: doi.org/10.1080/05568641.2020.1780149.\n---\n---",
+      "filename": "first-order-epistemic-exclusion.md"
+    },
+    {
+      "id": "generic situated knowledge thesis",
+      "title": "generic situated knowledge thesis",
+      "definition": "> \"The point of departure for standpoint theorizing is a recognition that there is no \"view from nowhere\"; contingent histories, social context and relations, inevitably affect what epistemic agents know (including explicit knowledge as well as tacit experiential knowledge), and shape the hermeneutic resources, inferential heuristics, and other epistemic resources they bring to bear in generating and adjudicating knowledge claims.\" (Wylie, 2012, p. 61)",
+      "reference": "- Wylie, Alison. 2012. “Feminist Philosophy of Science: Standpoint Matters.” Proceedings and Addresses of the American Philosophical Association 86 (2): 47–76.\n---",
+      "filename": "generic-situated-knowledge-thesis.md"
+    },
+    {
+      "id": "hermeneutical death",
+      "title": "hermeneutical death",
+      "definition": "> \"phenomena that radically constrain one’s hermeneutical capacities and agency such as the following: the loss (or radical curtailment) of one’s voice, of one’s interpretative capacities, or of one’s status as a participant in meaning-making and meaning-sharing practices\" (Medina, 2017, p. 41); \"occurring when subjects are not treated as intelligible communicators and are prevented from participating in meaning-making and meaning-sharing practices\" (Medina, 2018, p. 255).",
+      "reference": "- Medina, José. 2017. \"Varieties of Hermeneutical Injustice\" in Kidd, I. J., Medina, J., Pohlhaus, G., & Jr (Eds.). The Routledge Handbook of Epistemic Injustice. Routledge: 41-52 https: doi.org/10.4324/9781315212043\n---",
+      "filename": "hermeneutical-death.md"
+    },
+    {
+      "id": "hermeneutical inequality",
+      "title": "hermeneutical inequality",
+      "definition": "> \"non-deliberative, asymmetrical structural relations that either excludes one from social participation or obscures one’s social experience from collective understanding\" (Goldstein, 2022, p. 1868).",
+      "reference": "- Fricker, Miranda, Epistemic Injustice: Power and the Ethics of Knowing (Oxford, 2007; online edn, Oxford Academic, 1 Sept. 2007), https: doi.org/10.1093/acprof:oso/9780198237907.003.0002\n---",
+      "filename": "hermeneutical-inequality.md"
+    },
+    {
+      "id": "hermeneutical injustice",
+      "title": "hermeneutical injustice",
+      "definition": "> \"the injustice of having some significant area of one’s social experience obscured from collective understanding owing to persistent and wide-ranging hermeneutical marginalization.\" (Fricker, 2007, p. 154)",
+      "reference": "- Fricker, Miranda, Epistemic Injustice: Power and the Ethics of Knowing (Oxford, 2007; online edn, Oxford Academic, 1 Sept. 2007), https: doi.org/10.1093/acprof:oso/9780198237907.003.0002\n---",
+      "filename": "hermeneutical-injustice.md"
+    },
+    {
+      "id": "hermeneutical marginalization",
+      "title": "hermeneutical marginalization",
+      "definition": "> \"Let us say that when there is unequal hermeneutical participation with respect to some significant area(s) of social experience, members of the disadvantaged group are hermeneutically marginalized.\" (Fricker, 2007, p. 153).",
+      "reference": "- Fricker, Miranda, Epistemic Injustice: Power and the Ethics of Knowing (Oxford, 2007; online edn, Oxford Academic, 1 Sept. 2007), https: doi.org/10.1093/acprof:oso/9780198237907.003.0002\n---",
+      "filename": "hermeneutical-marginalization.md"
+    },
+    {
+      "id": "identity prejudice",
+      "title": "identity prejudice",
+      "definition": "> prejudices (i.e., negative stereotypes) against people qua social type",
+      "reference": "- Fricker, Miranda, Epistemic Injustice: Power and the Ethics of Knowing (Oxford, 2007; online edn, Oxford Academic, 1 Sept. 2007), https: doi.org/10.1093/acprof:oso/9780198237907.003.0002\n---",
+      "filename": "identity-prejudice.md"
+    },
+    {
+      "id": "ideological diversity",
+      "title": "ideological diversity",
+      "definition": "> \"A group is ideologically diverse with respect to a controversial question X when there are a significant number of members who hold incompatible answers to X (including agnosticism about X). So, ideological diversity is relative to some issue. A group can be diverse in some respects and non-diverse in others.\" (McBrayer, 2024, p.616)",
+      "reference": "- McBrayer, J.P. The Epistemic Benefits of Ideological Diversity. Acta Anal 39, 611–626 (2024). https: doi.org/10.1007/s12136-023-00582-z\n---",
+      "filename": "ideological-diversity.md"
+    },
+    {
+      "id": "ineffective epistemic diversity",
+      "title": "ineffective epistemic diversity",
+      "definition": "> \"Ineffective epistemic diversity obtains when a community includes members who hold different background beliefs but does not use this diversity to generate and evaluate theories, hypotheses and data. Communities can be blocked from making use of the epistemic diversity that could be offered by their members. As will be discussed below, current research on women STEM faculty and on university cultures indicates that (1) there are likely factors acting that block women’s dissent from getting uptake, (2) cultural patterns inhibit the kinds of social interactions required for women to offer dissent and (3) there are forces that inhibit women from developing dissenting views.\" (Fehr, 2011, p. 148)",
+      "reference": "- Fehr, Carla. 2011. “What Is in It for Me? The Benefits of Diversity in Scientific Communities.” In Feminist Epistemology and Philosophy of Science: Power in Knowledge, edited by Heidi Grasswick, 133–54. New York: Springer.\n---",
+      "filename": "ineffective-epistemic-diversity.md"
+    },
+    {
+      "id": "information elaboration (ie)",
+      "title": "information elaboration (ie)",
+      "definition": "> \"the exchange of information and perspectives, individual-level processing of the information and perspectives, feeding back the results of this individual-level processing into the group, and discussion and integration of their implications\" ” (van Homan et al. 2007, p. 1189).",
+      "reference": "- Homan AC, van Knippenberg D, Van Kleef GA, De Dreu CK. Bridging faultlines by valuing diversity: diversity beliefs, information elaboration, and performance in diverse work groups. J Appl Psychol. 2007 Sep;92(5):1189-99. [doi:10.1037/0021-9010.92.5.1189.](https://doi.org/10.1037/0021-9010.92.5.1189.) PMID: 17845079.\n---",
+      "filename": "information-elaboration-ie.md"
+    },
+    {
+      "id": "informational asymmetry",
+      "title": "informational asymmetry",
+      "definition": "> “An informational asymmetry is a condition between two (information processing) agents such that there is at least one topic ‘S’ about which one of the agents holds more informative propositions than the other.” (Bagwala, 2024, p. 6)",
+      "reference": "- Bagwala, A. (2024). On informational injustice and epistemic exclusions. Synthese, 203(6), 194. https: doi.org/10.1007/s11229-024-04636-6\n---",
+      "filename": "informational-asymmetry.md"
+    },
+    {
+      "id": "informational injustice",
+      "title": "informational injustice",
+      "definition": "> “Informational injustice occurs when a more-informed agent disadvantages a less-informed using the surplus information the former has. Informational injustice occurs if and only if an agent is wronged owing to his or her lower position in an informational asymmetry.” (Bagwala, 2024, p. 8)",
+      "reference": "- Bagwala, A. (2024). On informational injustice and epistemic exclusions. Synthese, 203(6), 194. https: doi.org/10.1007/s11229-024-04636-6\n---",
+      "filename": "informational-injustice.md"
+    },
+    {
+      "id": "institutional passing",
+      "title": "institutional passing",
+      "definition": "> \"Institutional passing: survival within an institution, let alone career progression, might depend on not challenging norms or might even depend upon the extent to which we can increase our proximity to them (by conducting ourselves in the right way, proximity to whiteness often translates as proximity to a certain style of respectable middle-class conduct). You go up by appearing (more) like those who are up. It would be too easy to dismiss this work as assimilation. The idea that those who embody diversity should pay increasing costs for not inhabiting institutional norms would further the injustice of how those norms support and enable the progression of some more than others.\" (Ahmed, 2017, p. 128) \"Institutional passing can involving minimizing signs of difference from institutional norms. Or institutional passing can involve maximizing signs of difference from a set of expectations about what those who are different from norms are like.\" (Ahmed, 2017, p. 131)",
+      "reference": "- Ahmed, Sara. 2017. Living a Feminist Life. New York: Duke University Press. https: doi.org/10.1215/9780822373377.\n---",
+      "filename": "institutional-passing.md"
+    },
+    {
+      "id": "interlacing",
+      "title": "interlacing",
+      "definition": "> \"without ever losing their historical and cultural identity, they the perspectives nevertheless collectively feed into cosmopolitan knowledge.\" (Massimi, 2022, p. 340) \"Any such encounters where one scientific perspective imposes itself upon others for the purpose of intellectual dominance, political oppression, and socioeconomic exclusion results in endemic varieties of epistemic injustice.\" (Massimi, 2022, p. 340)",
+      "reference": "- Massimi, Michela. 2022. Perspectival Realism. Oxford Studies in Philosophy of Science. Oxford, New York: Oxford University Press.\n---",
+      "filename": "interlacing.md"
+    },
+    {
+      "id": "liberatory epistemologies",
+      "title": "liberatory epistemologies",
+      "definition": "> \"epistemologies that go beyond establishing warrantability of knowledge claims to uncovering the power dimensions of knowledge practice. ... Feminist and other liberatory epistemologies thus cannot only be correctives to standard epistemologies, but must also at times separate or withdraw from dominant ways of making sense of the world.\" (Tuana, 2006, pp.13-14)",
+      "reference": "- Tuana, Nancy. 2006. “The Speculum of Ignorance: The Women’s Health Movement and Epistemologies of Ignorance.” Hypatia 21 (3): 1–19. https: doi.org/10.1111/j.1527-2001.2006.tb01110.x.\n---",
+      "filename": "liberatory-epistemologies.md"
+    },
+    {
+      "id": "linguistic bias",
+      "title": "linguistic bias",
+      "definition": "> \"people’s psychological tendency to view someone or their contribution(s) more negatively (as less competent, intelligent, intelligible, credible, etc.) because of their actual or expected “nonstandard”1 language use\" (Peters, 2024, p. 1514)",
+      "reference": "- Peters, Uwe. 2024. “The Philosophical Debate on Linguistic Bias: A Critical Perspective.” Philosophical Psychology 37 (6): 1513–38. https: doi.org/10.1080/09515089.2023.2261976.\n---",
+      "filename": "linguistic-bias.md"
+    },
+    {
+      "id": "linguistic disfluency bias",
+      "title": "linguistic disfluency bias",
+      "definition": "> \"cases in which detecting an LX accent, lexical choice, etc. leads an audience to biased conclusions because unfamiliar speech is harder to process fluently, producing negative affect that then influences cognition\" (Peters, 2024, p. 1517)",
+      "reference": "- Peters, Uwe. 2024. “The Philosophical Debate on Linguistic Bias: A Critical Perspective.” Philosophical Psychology 37 (6): 1513–38. https: doi.org/10.1080/09515089.2023.2261976.\n---",
+      "filename": "linguistic-disfluency-bias.md"
+    },
+    {
+      "id": "linguistic epistemic injustice",
+      "title": "linguistic epistemic injustice",
+      "definition": "> A type of epistemic injustice that occurs due to linguistic power relations (language provides different opportunities and obstacles to to members of different linguistic groups) and linguistic bias (different languages provide different ways of apprehending and knowing the world)",
+      "reference": "- Catala, Amandine. 2022. “Academic Migration, Linguistic Justice, and Epistemic Injustice.” Journal of Political Philosophy 30 (3): 324–46. https: doi.org/10.1111/jopp.12259.\n---",
+      "filename": "linguistic-epistemic-injustice.md"
+    },
+    {
+      "id": "linguistic injustice",
+      "title": "linguistic injustice",
+      "definition": "> \"unjust inequalities or unfair treatment of people or contributions based on features of their language.\" (Peters, 2024, p. 1513)",
+      "reference": "- Peters, Uwe. 2024. “The Philosophical Debate on Linguistic Bias: A Critical Perspective.” Philosophical Psychology 37 (6): 1513–38. https: doi.org/10.1080/09515089.2023.2261976.\n---",
+      "filename": "linguistic-injustice.md"
+    },
+    {
+      "id": "linguistic stereotype bias",
+      "title": "linguistic stereotype bias",
+      "definition": "> \"occurs when an accent or lexical choice signals social identity and activates a listener’s or reader’s national stereotypes that then reduce their credibility ratings of the language source\" (Peters, 2024, p. 1516)",
+      "reference": "- Peters, Uwe. 2024. “The Philosophical Debate on Linguistic Bias: A Critical Perspective.” Philosophical Psychology 37 (6): 1513–38. https: doi.org/10.1080/09515089.2023.2261976.\n---",
+      "filename": "linguistic-stereotype-bias.md"
+    },
+    {
+      "id": "loving ignorance",
+      "title": "loving ignorance",
+      "definition": "> \"Loving ignorance would then be the opposite of willful ignorance and would involve an attitude toward that which we cannot know.\" (Tuana 2006, 15)\n> \"Loving ignorance, like loving perception, involves the realization that although much experience can be shared there will always be experiences that cannot. Alterity is not something we attempt to remove; difference is not something we can arrogate. Our differences, the differences between white or Angla women and women of color are something to be approached with a sense of humility and a sense of wonder. Loving ignorance is thus a recognition that there are modalities of being that exceed our own and cannot be fully comprehended.\" (Tuana 2006, 16)",
+      "reference": "- Tuana, Nancy. 2006. “The Speculum of Ignorance: The Women’s Health Movement and Epistemologies of Ignorance.” _Hypatia_ 21 (3): 1–19. https: doi.org/10.1111/j.1527-2001.2006.tb01110.x.\n---",
+      "filename": "loving-ignorance.md"
+    },
+    {
+      "id": "microagression",
+      "title": "microagression",
+      "definition": "> \"brief, commonplace, and daily verbal, behavioral, and environmental slights and indignities directed toward Black Americans, often automatically and unintentionally\" (Sue, Capodilupo, and Holder 2008, 329).",
+      "reference": "- Sue, Derald Wing, Chrstina M. Capodilupo, and Aisha M.B. Holder. 2008. \"Racial microaggressions in the life experience of black Americans.\" _Professional Psychology: Research and Practice_ 39 (3): 329–36. https://doi.org/10.1037/0735-7028.39.3.329\n- Dotson, Kristie. 2011. “Tracking Epistemic Violence, Tracking Practices of Silencing.” _Hypatia_ 26 (2): 236–57. https://doi.org/10.1111/j.1527-2001.2011.01177.x.\n---",
+      "filename": "microagression.md"
+    },
+    {
+      "id": "non-dominant hermeneutical marginalization",
+      "title": "non-dominant hermeneutical marginalization",
+      "definition": "> Non-dominant marginalization occurs when social groups are able to render their experiences intelligible, but their conceptual resources are not respected by the dominant group (Mason 2011, 298).",
+      "reference": "- Mason, Rebecca. 2011. “Two Kinds of Unknowing.” _Hypatia_ 26 (2): 294–307. https://doi.org/10.1111/j.1527-2001.2011.01175.x.\n- Goldstein, Rena Beatrice. 2022. “Epistemic Disadvantage.” _Philosophia_ 50 (4): 1861–78. https://doi.org/10.1007/s11406-021-00465-w.\n---",
+      "filename": "non-dominant-hermeneutical-marginalization.md"
+    },
+    {
+      "id": "novelty",
+      "title": "novelty",
+      "definition": "> \"Novelty within the context of discovery does not always translate to an unprecedented idea; novelty could merely be the result of translating prediction into experimental outcome that refines the original prediction without obvious epistemic change. Novelty is not always about something unknown, but rather, also about how something that is known can still reveal something unprecedented and unanticipated when contextualized to less familiar circumstances.\" (Lee 2019, 710)",
+      "reference": "- Lee, Clarissa Ai Ling. 2019. “What Science Fiction Can Demonstrate About Novelty in the Context of Discovery and Scientific Creativity.” _Foundations of Science_ 24 (4): 705–25. https: doi.org/10.1007/s10699-019-09615-6.\n---",
+      "filename": "novelty.md"
+    },
+    {
+      "id": "participatory epistemic injustice",
+      "title": "participatory epistemic injustice",
+      "definition": "> \"What happens in such cases is that someone who wishes “to be recognized as a member of a community of people collaborating in the attempt to improve understanding or advance knowledge” fails to be so recognized (Hookway 2010: 155). Their capacity to contribute to cooperative inquiry as an epistemic agent is stymied. When this happens as a result of systematic forces of oppression, a participatory epistemic injustice results.\" (Grasswick 2017, 314)\n> \"When members of underrepresented groups are taken less seriously and given less uptake in their intellectual interactions with their peers because of such biases, they suffer participatory epistemic injustices.\" (Grasswick 2017, 317)",
+      "reference": "- Grasswick, Heidi. 2017. “Epistemic Injustice in Science.” In _The Routledge Handbook of Epistemic Injustice_, edited by Ian James Kidd, José Medina, and Gaile Pohlhaus Jr.. Routledge. https://www.taylorfrancis.com/chapters/edit/10.4324/9781315212043-31/epistemic-injustice-science-heidi-grasswick\n- Hookway, Christopher. 2010. “Some Varieties of Epistemic Injustice: Reflections on Fricker.” Episteme 7 (2): 151–63. https://doi.org/10.3366/epi.2010.0005.\n---",
+      "filename": "participatory-epistemic-injustice.md"
+    },
+    {
+      "id": "primary distributive epistemic injustice",
+      "title": "primary distributive epistemic injustice",
+      "definition": "> “If a society has the necessary resources but its scientific institutions do not provide knowledge people have an objective interest in or does so unfairly, giving undue priority to some over others, then the ensuing deprivation of the opportunity to acquire knowledge itself constitutes an injustice that we call ‘primary distributive epistemic injustice’.” (Irzik and Kurtulmus 2024, 5)",
+      "reference": "- Irzik, Gürol, and Faik Kurtulmus. 2024. “Distributive Epistemic Justice in Science.” The British Journal for the Philosophy of Science 75 (2): 325–45. https://doi.org/10.1086/715351.\n---",
+      "filename": "primary-distributive-epistemic-injustice.md"
+    },
+    {
+      "id": "reinstatement remedies",
+      "title": "reinstatement remedies",
+      "definition": "> \"‘Reinstatement remedies’ call for restoring the role and position from which these communities had been unjustly removed in scientific narratives. Reinstatement remedies take different forms. In what follows, I focus on three of them. They are inter-related and might be labelled as follows: reinstatement of authorship in the co-creation of knowledge, reinstatement of historical role in the production of knowledge, and reinstatement of intellectual ownership for scientific knowledge.\" (Massimi 2022, 352)",
+      "reference": "- Massimi, Michela. 2022. _Perspectival Realism_. Oxford University Press. https://doi.org/10.1093/oso/9780197555620.001.0001\n---",
+      "filename": "reinstatement-remedies.md"
+    },
+    {
+      "id": "science fiction",
+      "title": "science fiction",
+      "definition": "> \"Even if the work of science fiction is contributing nothing to instigating novel perspectives towards the science, it still opens up the way for thinking about how that science could provide novel insight into imagined futures and imagined technologies that emphasize much more novel possibilities to be had from the science rather than the novelty embodied by the science itself.\" (Lee 2019, 713)",
+      "reference": "- Lee, Clarissa Ai Ling. 2019. “What Science Fiction Can Demonstrate About Novelty in the Context of Discovery and Scientific Creativity.” _Foundations of Science_ 24 (4): 705–25. https: doi.org/10.1007/s10699-019-09615-6.\n---",
+      "filename": "science-fiction.md"
+    },
+    {
+      "id": "scientific discovery",
+      "title": "scientific discovery",
+      "definition": "> \"Scientific discovery involves a process of systems-building that requires coordination between theory, experiment, and expert observation for balancing between the maintenance of established facts and opening lines of communication to other possibilities—the aim is to diversify lines of evidence for managing underdetermination in the history of the science and to construct ‘new’ narrative strands (Currie and Sterelny 2017).\" (Lee 2019, 709)",
+      "reference": "- Lee, Clarissa Ai Ling. 2019. “What Science Fiction Can Demonstrate About Novelty in the Context of Discovery and Scientific Creativity.” _Foundations of Science_ 24 (4): 705–25. https: doi.org/10.1007/s10699-019-09615-6.\n- Currie, Adrian, and Kim Sterelny. 2017. “In Defence of Story-Telling.” _Studies in History and Philosophy of Science Part A_, 62 (April):14–21. https://doi.org/10.1016/j.shpsa.2017.03.003.\n---",
+      "filename": "scientific-discovery.md"
+    },
+    {
+      "id": "scientific/intellectual movement (sim)",
+      "title": "scientific/intellectual movement (sim)",
+      "definition": "> \"SIMs are collective efforts to pursue research programs in the face of resistance from others in the scientific community (Frickel and Gross 2005, 206).\" (Koskinen and Rolin 2019, 1056)",
+      "reference": "- Koskinen, Inkeri, and Kristina Rolin. 2019. “Scientific/Intellectual Movements Remedying Epistemic Injustice: The Case of Indigenous Studies.” _Philosophy of Science_ 86 (5): 1052–63. https: doi.org/10.1086/705522.\n- Frickel, Scott, and Neil Gross. 2005. “A General Theory of Scientific/Intellectual Movements.” _American Sociological Review_ 70 (2): 204–32. https://doi.org/10.1177/000312240507000202.\n---",
+      "filename": "scientific-intellectual-movement-sim.md"
+    },
+    {
+      "id": "second-level surplus information",
+      "title": "second-level surplus information",
+      "definition": "> \"The increase in information due to information inferred from the information that the agents already had, we may now call second-level information or inferred information. [...] the information Alice derived from the information she already possesses, such that Burhan does not hold the same, may be called _second-level surplus information_” (Bagwala 2024, 6).",
+      "reference": "- Bagwala, Abbas. 2024. “On Informational Injustice and Epistemic Exclusions.” _Synthese_ 203 (6): 194. https://doi.org/10.1007/s11229-024-04636-6.\n---",
+      "filename": "second-level-surplus-information.md"
+    },
+    {
+      "id": "second order epistemic exclusion",
+      "title": "second order epistemic exclusion",
+      "definition": "> \"A second-order epistemic exclusion results from insufficient shared epistemic resources. To say that shared epistemic resources are insufficient is to point to limitations within those resources themselves.\" (Dotson 2014, 127)\n> \"a second-order exclusion occurs when there are gaps in an epistemic system resulting from prior exclusions in the system’s development where these gaps consistently obscure what it is in the interests of particular knowers to know and have known. In such cases, a system will need to be more fully developed so as to facilitate epistemic agency more equitably.\" (Pohlhaus 2020, 235)",
+      "reference": "- Dotson, Kristie. 2014. “Conceptualizing Epistemic Oppression.” _Social Epistemology_ 28 (2): 115–38. https: doi.org/10.1080/02691728.2013.782585.\n- Pohlhaus Jr., Gaile. 2020. “Epistemic Agency Under Oppression.” _Philosophical Papers_ 49 (2): 233–51. https: doi.org/10.1080/05568641.2020.1780149.\n---\n---",
+      "filename": "second-order-epistemic-exclusion.md"
+    },
+    {
+      "id": "secondary distributive epistemic injustice",
+      "title": "secondary distributive epistemic injustice",
+      "definition": "> “‘Secondary distributive epistemic justice’ is concerned with the production of scientific knowledge public officials need for carrying out their tasks required by justice, such as providing health care, designing and implementing effective social and environmental policies, and maintaining a fair legal system.” (Irzik and Kurtulmus 2024, 5)",
+      "reference": "- Irzik, Gürol, and Faik Kurtulmus. 2024. “Distributive Epistemic Justice in Science.” _The British Journal for the Philosophy of Science_ 75 (2): 325–45. https://doi.org/10.1086/715351.\n---",
+      "filename": "secondary-distributive-epistemic-injustice.md"
+    },
+    {
+      "id": "sexist values",
+      "title": "sexist values",
+      "definition": "> \"ideologies that support unfair social hierarchies by legitimizing male domination of cisgender women and other “weaker” genders ... I argue that sexist values and gender norms are illegitimate in reproductive medicine because they undermine epistemic autonomy and enable epistemic oppression.\" (ChoGlueck 2023, 316)",
+      "reference": "- ChoGlueck, Christopher. 2022. “Imposing Values and Enforcing Gender through Knowledge: Epistemic Oppression with the Morning-after Pill’s Drug Label.” _Hypatia_ 37 (2): 315–42. https: doi.org/10.1017/hyp.2022.11.\n---",
+      "filename": "sexist-values.md"
+    },
+    {
+      "id": "situated knowledge thesis",
+      "title": "situated knowledge thesis",
+      "definition": "> \"Social location systematically influences our experiences, shaping and limiting what we know, such that knowledge is achieved from a particular standpoint.\" (Intemann 2010, 783)",
+      "reference": "- Intemann, Kristen. 2010. “25 Years of Feminist Empiricism and Standpoint Theory: Where Are We Now?” _Hypatia_ 25 (4): 778–96. https: doi.org/10.1111/j.1527-2001.2010.01138.x.\n---",
+      "filename": "situated-knowledge-thesis.md"
+    },
+    {
+      "id": "situated knowledges",
+      "title": "situated knowledges",
+      "definition": "> \"So, not so perversely, objectivity turns out to be about particular and specific embodiment and definitely not about the false vision promising transcendence of all limits and responsibility. The moral is simple: only partial perspective promises objective vision. ... Feminist objectivity is about limited location and situated knowledge, not about transcendence and splitting of subject and object. It allows us to become answerable for what we learn how to see.\" (Haraway 1988, 582-83)",
+      "reference": "- Haraway, Donna J. 1988. “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective.” _Feminist Studies_ 14 (3): 575–99. https: doi.org/10.2307/3178066.\n---",
+      "filename": "situated-knowledges.md"
+    },
+    {
+      "id": "situational diversity",
+      "title": "situational diversity",
+      "definition": "> \"A community is situationally diverse when its membership consists of individuals with different social and material locations (gender, race, class, sexuality, etc.). [...] increasing situational diversity can and has led to increases in epistemic diversity, but it is not necessary that it do so\" (Fehr, 2011, 146-47).",
+      "reference": "- Fehr, Carla. 2011. “What Is in It for Me? The Benefits of Diversity in Scientific Communities.” In _Feminist Epistemology and Philosophy of Science: Power in Knowledge_, edited by Heidi Grasswick. Springer. https://philarchive.org/rec/FEHWII\n---",
+      "filename": "situational-diversity.md"
+    },
+    {
+      "id": "standpoint theory",
+      "title": "standpoint theory",
+      "definition": "> \"Feminist standpoint theory (FST) also stresses the partiality of perspectives and  the value of diversity in scientific communities. It builds on the idea that all  knowledge is situated: Knowers live in particular socio-historic contexts, face  particular material conditions, and occupy specific positions within a society’s  hierarchy. These circumstances create a variety of social locations that affect both  what someone can (or is likely to) know and what their status as a knower is. The  distinctive thesis of standpoint theory is that some of these social locations can be  developed into standpoints that come with epistemic advantages.\" (Bueter 2024, 27)",
+      "reference": "- Bueter, Anke. 2024. _Feminist Philosophy of Science_. Cambridge University Press. https: doi.org/10.1017/9781108956055.\n---",
+      "filename": "standpoint-theory.md"
+    },
+    {
+      "id": "stereotype threat",
+      "title": "stereotype threat",
+      "definition": "> \"when one’s performance has the risk of reinforcing negative stereotypes about one’s group and that group membership is made salient to them\"  (Fehr and Jones 2022, 12)",
+      "reference": "- Fehr, Carla, and Janet Minji Jones. 2022. ‘Culture, Exploitation, and Epistemic Approaches to Diversity’. _Synthese_ 200 (6): 465. https: doi.org/10.1007/s11229-022-03787-8.\n---",
+      "filename": "stereotype-threat.md"
+    },
+    {
+      "id": "strong objectivitiy",
+      "title": "strong objectivitiy",
+      "definition": "> \"in at least some cases scientific and philosophic research can be directed by recognizably political, social, and cultural values and interests and yet still be fair to the evidence and fair to its severest critics. These fairness requirements have been fundamental goals of any standard for maximizing objectivity. The need for strong objectivity arises when existing research communities are too homogenous and too isolated from pro-democratic social tendencies. Such research that starts from outside such homogenous communities can be directed by progressive social and political commitments and, because of the limitations of the existing scientific communities, can maximize objectivity more effectively than the existing, supposedly value-free communities.\" (Harding 2015, 23)",
+      "reference": "- Harding, Sandra G. 2015. _Objectivity and Diversity: Another Logic of Scientific Research_. The University of Chicago Press.\n---",
+      "filename": "strong-objectivitiy.md"
+    },
+    {
+      "id": "structural identity prejudices",
+      "title": "structural identity prejudices",
+      "definition": "> \"From the epistemic point of view, what is bad about this sort of hermeneutical marginalization is that it renders the collective hermeneutical resource _structurally prejudiced_, for it will tend to issue interpretations of that group’s social experiences that are biased because insufficiently influenced by the subject group, and therefore unduly influenced by more hermeneutically powerful groups (thus, for instance, sexual harassment as flirting, rape in marriage as non-rape, post-natal depression as hysteria, reluctance to work family-unfriendly hours as unprofessionalism, and so on). Further, it is generally socially powerless groups that suffer hermeneutical marginalization, and so we can say that, from the moral point of view, what is bad about this sort of hermeneutical marginalization is that the structural prejudice it causes in the collective hermeneutical resource is essentially discriminatory: the prejudice affects people in virtue of their membership of a socially powerless group, and thus in virtue of an aspect of their social identity. It is, then, akin to identity prejudice. Let us call it _structural identity prejudice_.\" (Fricker 2007, 154-55).",
+      "reference": "- Fricker, Miranda. 2007. Epistemic Injustice: Power and the Ethics of Knowing. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780198237907.001.0001.\n---",
+      "filename": "structural-identity-prejudices.md"
+    },
+    {
+      "id": "structural testimonial injustice",
+      "title": "structural testimonial injustice",
+      "definition": "> concedes the possibility of a structural variant but provides principled reasons for focusing on the transactional variant alone, independent of structural considerations (that is injujstice when it happens is internal to the self-understanding of the participants) (Wanderer, 2017, p.34)",
+      "reference": "- Wanderer, Jeremy. 2017. \"Varieties of Testimonial Injustice\" in Kidd, I. J., Medina, J., Pohlhaus, G., & Jr (Eds.). The Routledge Handbook of Epistemic Injustice. Routledge: 27-40 https: doi.org/10.4324/9781315212043;\n- Anderson, Elizabeth. 2012. \"Epistemic Justice as a Virtue of Social Institutions\", Social Epistemology 26.2: 163–173.\n---",
+      "filename": "structural-testimonial-injustice.md"
+    },
+    {
+      "id": "surplus information",
+      "title": "surplus information",
+      "definition": "> \"Between two agents, one may know some things about several topics, and the other may know some other things about several topics, half of which the latter may share with the former in a complex web such that there are topics where one has more information about a few things and the other about a few others. Given that the two agents are humans (let us call them Alice and Burhan), we know that they may also formulate new information from what they already possess. Suppose regarding the chess player Mikhail Tal, both agents have the information that (a) he was from Riga. Alice, however, also knows that (b) Riga is a part of Latvia. Alice may then conclude, inferring by deduction, that (c) Mikhail Tal was also Latvian. In our case, Alice has more information than Burhan about the topic ‘S.’ This is _surplus information_.” (Bagwala 2024, 6).",
+      "reference": "- Bagwala, Abbas. 2024. “On Informational Injustice and Epistemic Exclusions.” _Synthese_ 203 (6): 194. https://doi.org/10.1007/s11229-024-04636-6.\n---",
+      "filename": "surplus-information.md"
+    },
+    {
+      "id": "systematic testimonial injustice",
+      "title": "systematic testimonial injustice",
+      "definition": "> \"Systematic testimonial injustices, then, are produced not by prejudice simpliciter, but specically by those prejudices that ‘track’ the subject through different dimensions of social activity—economic, educational, professional, sexual, legal, political, religious, and so on. Being subject to a tracker prejudice renders one susceptible not only to testimonial injustice but to a gamut of dierent injustices, and so when such a prejudice generates a testimonial injustice, that injustice is systematically connected with other kinds of actual or potential injustice\". (Fricker 2007, 11)",
+      "reference": "- Fricker, Miranda. 2007. _Epistemic Injustice: Power and the Ethics of Knowing_. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780198237907.001.0001.\n---",
+      "filename": "systematic-testimonial-injustice.md"
+    },
+    {
+      "id": "systemic situated knowledge thesis",
+      "title": "systemic situated knowledge thesis",
+      "definition": "> \"What distinguishes standpoint theory from other genres of social epistemology predicated on a generic situated knowledge thesis is its focus on the epistemic effects of systemic structures of social differentiation. Standpoint theorists are concerned to understand the impact, on what we know and how we know, of our location in hierarchical systems of power relations that structure our material conditions of life, and the social relations of production and reproduction that, in turn, shape our identities and our epistemic capacities.\" (Wylie 2012, 62)",
+      "reference": "- Wylie, Alison. 2012. “Feminist Philosophy of Science: Standpoint Matters.” _Proceedings and Addresses of the American Philosophical Association_ 86 (2): 47–76. https://www.jstor.org/stable/43661298\n---",
+      "filename": "systemic-situated-knowledge-thesis.md"
+    },
+    {
+      "id": "testimonial betrayal",
+      "title": "testimonial betrayal",
+      "definition": "> \"thick relations of intimacy between acquaintances, and the maltreatment involves\" (Wanderer, 2017, p. 35); (cf. Maitra, 2010, pgs. 198–200).",
+      "reference": "- Wanderer, Jeremy. 2017. \"Varieties of Testimonial Injustice\" in Kidd, I. J., Medina, J., Pohlhaus, G., & Jr (Eds.). The Routledge Handbook of Epistemic Injustice. Routledge: 27-40 https: doi.org/10.4324/9781315212043;\n---",
+      "filename": "testimonial-betrayal.md"
+    },
+    {
+      "id": "testimonial death",
+      "title": "testimonial death",
+      "definition": "> \"testimonial death, occurring when subjects are not given even minimal amounts of credibility and are prevented from participating in testimonial dynamics\" (Medina 2018, 255).",
+      "reference": "- Medina, José. 2017. “Epistemic Injustice and Epistemologies of Ignorance.” In _The Routledge Companion to Philosophy of Race_, edited by Paul C. Taylor, Linda Martín Alcoff, and Luvell Anderson. Routledge. https://doi.org/10.4324/9781315884424-18.\n---",
+      "filename": "testimonial-death.md"
+    },
+    {
+      "id": "testimonial injustice",
+      "title": "testimonial injustice",
+      "definition": "> \"testimonial injustice, wherein a speaker receives an unfair deficit of credibility from a hearer owing to prejudice on the hearer's part\". (Fricker 2007, 1)",
+      "reference": "- Fricker, Miranda. 2007. _Epistemic Injustice: Power and the Ethics of Knowing_. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780198237907.001.0001.\n---",
+      "filename": "testimonial-injustice.md"
+    },
+    {
+      "id": "the novelty tax",
+      "title": "the novelty tax",
+      "definition": "> \"x The epistemic approach to diversity is essentially an invitation to diverse practitioners to join a community and provide dissent, to point out implicit values and methodological inconsistencies and hence improve rigor\" (Fehr and Minji, 2022, p.12)",
+      "reference": "- Fehr, Carla, and Janet Minji Jones. 2022. ‘Culture, Exploitation, and Epistemic Approaches to Diversity’. Synthese 200 (6): 465. https: doi.org/10.1007/s11229-022-03787-8.\n---",
+      "filename": "the-novelty-tax.md"
+    },
+    {
+      "id": "third order epistemic exclusion",
+      "title": "third order epistemic exclusion",
+      "definition": "> \"The third kind of epistemic exclusion, a third-order exclusion is a compromise to epistemic agency caused by inadequate dominant, shared epistemic resources. To say that such resources are inadequate is to throw into question the relevance of a given community’s overall dominant resources in light of the knowledge production activities in question. This kind of epistemic exclusion is different than firstor second-order exclusion, insofar as the latter is detected from within the shared epistemic resources themselves. Third-order epistemic exclusion proceeds from the “outside” of a set of epistemic resources to throw large portions of one’s epistemological system into question as a result of the goals of a given inquiry.\" (Dotson 2014, 129)\n> \"a third-order exclusion occurs when an entire system is inapt for attending to the epistemic interests of particular knowers. In such cases, developing the system further will not suffice to solve the problem. Instead, there is need for a new epistemic system altogether.\" (Pohlhaus 2020, 235)",
+      "reference": "- Dotson, Kristie. 2014. “Conceptualizing Epistemic Oppression.” _Social Epistemology_ 28 (2): 115–38. https: doi.org/10.1080/02691728.2013.782585.\n- Pohlhaus Jr., Gaile. 2020. “Epistemic Agency Under Oppression.” _Philosophical Papers_ 49 (2): 233–51. https://doi.org/10.1080/05568641.2020.1780149.\n---\n---",
+      "filename": "third-order-epistemic-exclusion.md"
+    },
+    {
+      "id": "transactional testimonial injustice",
+      "title": "transactional testimonial injustice",
+      "definition": "> \"a breach of the order of justice established between the parties to a testimonial transaction yielding a systemic pattern of maltreatment of people across an array of different transactions and contexts\" (Wanderer 2017, 33).",
+      "reference": "- Wanderer, Jeremy. 2017. “Varieties of Testimonial Injustice.” In _The Routledge Handbook on Epistemic Injustice_, edited by Ian James Kidd, Gaile Pohlhaus, and José Medina. Routledge. https://philarchive.org/rec/WANVOT-4.\n---",
+      "filename": "transactional-testimonial-injustice.md"
+    },
+    {
+      "id": "transient diversity",
+      "title": "transient diversity",
+      "definition": "> \"This diversity should be around long enough so that individuals do not discard theories too quickly, but also not stay around so long as to hinder the convergence to one action.\" (Zollman 2010, 32)",
+      "reference": "- Zollman, Kevin J. S. 2010. “The Epistemic Benefit of Transient Diversity.” _Erkenntnis_ 72 (1): 17–35. https://doi.org/10.1007/s10670-009-9194-6.\n---",
+      "filename": "transient-diversity.md"
+    },
+    {
+      "id": "triangulation explanation",
+      "title": "triangulation explanation",
+      "definition": "> \"The triangulation metaphor is meant to capture the way that individuals from different perspectives might nevertheless use their incomplete data to identify genuine features of the world.\" (McBrayer 2024, 615)",
+      "reference": "- McBrayer, Justin P. 2024. “The Epistemic Benefits of Ideological Diversity.” _Acta Analytica_ 39:611–26. https://doi.org/10.1007/s12136-023-00582-z.\n---",
+      "filename": "triangulation-explanation.md"
+    },
+    {
+      "id": "unwarranted exclusion",
+      "title": "unwarranted exclusion",
+      "definition": "> \"An unwarranted epistemic exclusion occurs when a knower (or group of knowers) is (are) unjustly kept out of knowledge exchanges relevant to understanding their social experience. Unjust epistemic exclusions mark instances of epistemic injustice\" (Goldstein 2022, 1862)",
+      "reference": "- Goldstein, Rena Beatrice. 2022. “Epistemic Disadvantage.” _Philosophia_ 50 (4): 1861–78. https: doi.org/10.1007/s11406-021-00465-w.\n---",
+      "filename": "unwarranted-exclusion.md"
+    },
+    {
+      "id": "warranted exclusion",
+      "title": "warranted exclusion",
+      "definition": "> \"A warranted epistemic exclusion occurs when a knower (or group of knowers) is (are) justifiably kept out of knowledge exchanges relevant to understanding their social experience\" (Goldstein 2022, 1862).",
+      "reference": "- Goldstein, Rena Beatrice. 2022. “Epistemic Disadvantage.” _Philosophia_ 50 (4): 1861–78. https: doi.org/10.1007/s11406-021-00465-w.\n---",
+      "filename": "warranted-exclusion.md"
+    },
+    {
+      "id": "well-ordered science",
+      "title": "well-ordered science",
+      "definition": "> \"properly functioning inquiry — well-ordered science — should satisfy the preferences of the citizens in the society in which it is practiced\" (Kitcher 2001, 117)",
+      "reference": "- Kitcher, Philip. 2001. _Science, Truth, and Democracy_. Oxford University Press. https://doi.org/10.1093/0195145836.001.0001\n---",
+      "filename": "well-ordered-science.md"
+    },
+    {
+      "id": "white ignorance",
+      "title": "white ignorance",
+      "definition": "> Systemic and socially constructed form of ignorance that sustains white supremacy by distorting, denying, or ignoring racial realities, highlighting how dominant racial groups often remain unaware—intentionally or unintentionally—of the injustices and experiences of marginalized groups, thereby maintaining racial inequality.",
+      "reference": "- Mills, Charles. 2007. “White Ignorance.” In _Race and Epistemologies of Ignorance_, edited by Shannon Sullivan and Nancy Tuana. State University of New York Press. https://muse.jhu.edu/pub/163/monograph/chapter/121151.\n---",
+      "filename": "white-ignorance.md"
+    },
+    {
+      "id": "willful hermeneutical ignorance",
+      "title": "willful hermeneutical ignorance",
+      "definition": "> Despite the availability of alternative conceptualizations put forth by marginalized, resistant knowers, “dominantly situated knowers nonetheless continue to misunderstand and misinterpret the world” (Pohlhaus 2012, 716).",
+      "reference": "- Pohlhaus Jr., Gaile. 2012. “Relational Knowing and Epistemic Injustice: Toward a Theory of Willful Hermeneutical Ignorance.” _Hypatia_ 27 (4): 715–35. https://doi.org/10.1111/j.1527-2001.2011.01222.x.\n---",
+      "filename": "willful-hermeneutical-ignorance.md"
+    },
+    {
+      "id": "willful ignorance",
+      "title": "willful ignorance",
+      "definition": "> \"Willful ignorance is a deception that we impose upon ourselves, but it is not an isolated lie we consciously tell ourselves, a belief we know to be false but insist on repeating. Rather, willful ignorance is a systematic process of self-deception, a willful embrace of ignorance that infects those who are in positions of privilege, an active ignoring of the oppression of others and one's role in that exploitation.\" (Tuana 2006, 11)",
+      "reference": "- Tuana, Nancy. 2006. “The Speculum of Ignorance: The Women’s Health Movement and Epistemologies of Ignorance.” _Hypatia_ 21 (3): 1–19. https: doi.org/10.1111/j.1527-2001.2006.tb01110.x.\n---",
+      "filename": "willful-ignorance.md"
+    },
+    {
+      "id": "world traveling",
+      "title": "world traveling",
+      "definition": "- \"there are 'worlds' that we can travel to lovingly and travelling to them is part of loving at least some of their inhabitants. The reason why I think that travelling to someone's 'world' is a way of identifying with them is because by travelling to their 'world' we can understand what it is to be them and what it is to be ourselves in their eyes. [...] Knowing other women's 'worlds' is part of knowing them and knowing them is part of loving them. [...] Without knowing the other's 'world,' one does not know the other and without knowing the other one is really alone in the other's presence because the other is only dimly present to one.\" (Lugones 1987, 17-18)\n- crossing barriers by taking up resistant worlds of sense, resisting dominant relationality and understanding",
+      "reference": "- Lugones, María. 1987. “Playfulness, ‘World’-Travelling, and Loving Perception.” Hypatia 2 (2): 3–19. https://doi.org/10.1111/j.1527-2001.1987.tb01062.x.\n- Lugones, María. 2003. _Pilgrimages/Peregrinajes: Theorizing Coalition against Multiple Oppressions_. Lanham, MD: Rowman and Littlefield.\n---",
+      "filename": "world-traveling.md"
+    },
+    {
+      "id": "epistemic opression",
+      "title": "Epistemic Opression",
+      "definition": "",
+      "reference": "",
+      "filename": ""
+    },
+    {
+      "id": "epistemic power (foucauldian, see allen 2017",
+      "title": "Epistemic Power (Foucauldian, See Allen 2017",
+      "definition": "",
+      "reference": "",
+      "filename": ""
+    },
+    {
+      "id": "2017)",
+      "title": "2017)",
+      "definition": "",
+      "reference": "",
+      "filename": ""
+    },
+    {
+      "id": "strong objectivity",
+      "title": "Strong Objectivity",
+      "definition": "",
+      "reference": "",
+      "filename": ""
+    }
+  ],
+  "links": [
+    {
+      "source": "agnotology",
+      "target": "epistemologies of ignorance",
+      "type": "equivalent to"
+    },
+    {
+      "source": "epistemologies of ignorance",
+      "target": "agnotology",
+      "type": "equivalent to"
+    },
+    {
+      "source": "cancelling out explanation",
+      "target": "epistemic diversity",
+      "type": "depends on"
+    },
+    {
+      "source": "cancelling out explanation",
+      "target": "feminist empiricism",
+      "type": "part of"
+    },
+    {
+      "source": "cognitive/epistemic value",
+      "target": "epistemic diversity",
+      "type": "part of"
+    },
+    {
+      "source": "commonplace practitioners",
+      "target": "diverse practitioner",
+      "type": "distinct from"
+    },
+    {
+      "source": "contributory injustice",
+      "target": "willful hermeneutical ignorance",
+      "type": "produced by"
+    },
+    {
+      "source": "contributory injustice",
+      "target": "epistemic injustice",
+      "type": "type of"
+    },
+    {
+      "source": "contributory injustice",
+      "target": "epistemic oppression",
+      "type": "part of"
+    },
+    {
+      "source": "creative agency",
+      "target": "epistemic creativity",
+      "type": "depends on"
+    },
+    {
+      "source": "credibility bias",
+      "target": "testimonial injustice",
+      "type": "type of"
+    },
+    {
+      "source": "discriminatory epistemic injustice",
+      "target": "distributive epistemic injustice",
+      "type": "coextensive with"
+    },
+    {
+      "source": "distributive epistemic injustice",
+      "target": "epistemic injustice",
+      "type": "type of"
+    },
+    {
+      "source": "diverse practitioner",
+      "target": "situational diversity",
+      "type": "part of"
+    },
+    {
+      "source": "diversity advocates",
+      "target": "epistemic diversity",
+      "type": "part of"
+    },
+    {
+      "source": "diversity-beats-ability (dab)",
+      "target": "epistemic diversity",
+      "type": "depends on"
+    },
+    {
+      "source": "diversity can benefit information elaboration (dbie)",
+      "target": "epistemic diversity",
+      "type": "part of"
+    },
+    {
+      "source": "diversity development work",
+      "target": "diversity free riding",
+      "type": "counteracts"
+    },
+    {
+      "source": "diversity free riding",
+      "target": "diversity development work",
+      "type": "counteracts"
+    },
+    {
+      "source": "diversity development work",
+      "target": "epistemic diversity work",
+      "type": "produces"
+    },
+    {
+      "source": "diversity free riding",
+      "target": "epistemic exploitation",
+      "type": "type of"
+    },
+    {
+      "source": "diversity free riding",
+      "target": "epistemic diversity work",
+      "type": "depends on"
+    },
+    {
+      "source": "diversity work",
+      "target": "disorientation",
+      "type": "produces"
+    },
+    {
+      "source": "effective epistemic diversity",
+      "target": "epistemic diversity",
+      "type": "type of"
+    },
+    {
+      "source": "epistemic advantage thesis",
+      "target": "standpoint theory",
+      "type": "part of"
+    },
+    {
+      "source": "epistemic agential injustice",
+      "target": "testimonial injustice",
+      "type": "type of"
+    },
+    {
+      "source": "epistemic blinkering",
+      "target": "epistemic severing",
+      "type": "distinct from"
+    },
+    {
+      "source": "epistemic creativity",
+      "target": "epistemic diversity",
+      "type": "produces"
+    },
+    {
+      "source": "epistemic creativity",
+      "target": "epistemic virtue",
+      "type": "part of"
+    },
+    {
+      "source": "epistemic death",
+      "target": "epistemic oppression",
+      "type": "type of"
+    },
+    {
+      "source": "epistemic disadvantage",
+      "target": "epistemic injustice",
+      "type": "similar to"
+    },
+    {
+      "source": "epistemic injustice",
+      "target": "epistemic disadvantage",
+      "type": "similar to"
+    },
+    {
+      "source": "epistemic disadvantage",
+      "target": "epistemic injustice",
+      "type": "distinct from"
+    },
+    {
+      "source": "epistemic diversity work",
+      "target": "effective epistemic diversity",
+      "type": "produces"
+    },
+    {
+      "source": "epistemic diversity work",
+      "target": "diversity work",
+      "type": "part of"
+    },
+    {
+      "source": "epistemic diversity",
+      "target": "feminist empiricism",
+      "type": "part of"
+    },
+    {
+      "source": "epistemic diversity",
+      "target": "standpoint theory",
+      "type": "part of"
+    },
+    {
+      "source": "epistemic exploitation",
+      "target": "epistemic injustice",
+      "type": "type of"
+    },
+    {
+      "source": "epistemic exploitation",
+      "target": "epistemic opression",
+      "type": "type of"
+    },
+    {
+      "source": "epistemic exploitation",
+      "target": "epistemic power (foucauldian, see allen 2017",
+      "type": "produced by"
+    },
+    {
+      "source": "epistemic exploitation",
+      "target": "2017)",
+      "type": "hall"
+    },
+    {
+      "source": "epistemic extractivism",
+      "target": "epistemic exploitation",
+      "type": "similar to"
+    },
+    {
+      "source": "epistemic exploitation",
+      "target": "epistemic extractivism",
+      "type": "similar to"
+    },
+    {
+      "source": "epistemic freedom",
+      "target": "epistemic injustice",
+      "type": "counteracts"
+    },
+    {
+      "source": "epistemic injustice",
+      "target": "epistemic freedom",
+      "type": "counteracts"
+    },
+    {
+      "source": "epistemic humility",
+      "target": "epistemic extractivism",
+      "type": "counteracts"
+    },
+    {
+      "source": "epistemic extractivism",
+      "target": "epistemic humility",
+      "type": "counteracts"
+    },
+    {
+      "source": "epistemic labor invalidation",
+      "target": "epistemic injustice",
+      "type": "produces"
+    },
+    {
+      "source": "epistemic power",
+      "target": "epistemic oppression",
+      "type": "part of"
+    },
+    {
+      "source": "epistemic severing",
+      "target": "epistemic injustice",
+      "type": "type of"
+    },
+    {
+      "source": "epistemic severing",
+      "target": "informational injustice",
+      "type": "type of"
+    },
+    {
+      "source": "epistemic trademarking",
+      "target": "epistemic severing",
+      "type": "depends on"
+    },
+    {
+      "source": "epistemic trademarking",
+      "target": "epistemic injustice",
+      "type": "type of"
+    },
+    {
+      "source": "epistemic trademarking",
+      "target": "epistemic extractivism",
+      "type": "equivalent to"
+    },
+    {
+      "source": "epistemic extractivism",
+      "target": "epistemic trademarking",
+      "type": "equivalent to"
+    },
+    {
+      "source": "epistemic trust injustice",
+      "target": "epistemic injustice",
+      "type": "type of"
+    },
+    {
+      "source": "epistemic virtue",
+      "target": "cognitive/epistemic value",
+      "type": "similar to"
+    },
+    {
+      "source": "cognitive/epistemic value",
+      "target": "epistemic virtue",
+      "type": "similar to"
+    },
+    {
+      "source": "epistemically disadvantaged identities",
+      "target": "testimonial injustice",
+      "type": "produces"
+    },
+    {
+      "source": "epistemological resistance movement",
+      "target": "epistemic oppression",
+      "type": "counteracts"
+    },
+    {
+      "source": "epistemic oppression",
+      "target": "epistemological resistance movement",
+      "type": "counteracts"
+    },
+    {
+      "source": "epistemological resistance movement",
+      "target": "scientific/intellectual movement (sim)",
+      "type": "similar to"
+    },
+    {
+      "source": "scientific/intellectual movement (sim)",
+      "target": "epistemological resistance movement",
+      "type": "similar to"
+    },
+    {
+      "source": "extracted speech",
+      "target": "epistemic exploitation",
+      "type": "produces"
+    },
+    {
+      "source": "feminist empiricism",
+      "target": "epistemic diversity",
+      "type": "depends on"
+    },
+    {
+      "source": "first-level surplus information",
+      "target": "surplus information",
+      "type": "type of"
+    },
+    {
+      "source": "first order epistemic exclusion",
+      "target": "epistemic oppression",
+      "type": "type of"
+    },
+    {
+      "source": "first order epistemic exclusion",
+      "target": "testimonial injustice",
+      "type": "similar to"
+    },
+    {
+      "source": "testimonial injustice",
+      "target": "first order epistemic exclusion",
+      "type": "similar to"
+    },
+    {
+      "source": "first order epistemic exclusion",
+      "target": "epistemic exclusion",
+      "type": "type of"
+    },
+    {
+      "source": "generic situated knowledge thesis",
+      "target": "situated knowledge thesis",
+      "type": "type of"
+    },
+    {
+      "source": "hermeneutical death",
+      "target": "epistemic death",
+      "type": "part of"
+    },
+    {
+      "source": "hermeneutical inequality",
+      "target": "epistemic exclusion",
+      "type": "produces"
+    },
+    {
+      "source": "hermeneutical injustice",
+      "target": "epistemic injustice",
+      "type": "type of"
+    },
+    {
+      "source": "hermeneutical marginalization",
+      "target": "hermeneutical injustice",
+      "type": "produces"
+    },
+    {
+      "source": "identity prejudice",
+      "target": "testimonial injustice",
+      "type": "produces"
+    },
+    {
+      "source": "ideological diversity",
+      "target": "epistemic diversity",
+      "type": "type of"
+    },
+    {
+      "source": "ineffective epistemic diversity",
+      "target": "epistemic diversity",
+      "type": "type of"
+    },
+    {
+      "source": "ineffective epistemic diversity",
+      "target": "hermeneutical injustice",
+      "type": "similar to"
+    },
+    {
+      "source": "hermeneutical injustice",
+      "target": "ineffective epistemic diversity",
+      "type": "similar to"
+    },
+    {
+      "source": "ineffective epistemic diversity",
+      "target": "epistemic oppression",
+      "type": "similar to"
+    },
+    {
+      "source": "epistemic oppression",
+      "target": "ineffective epistemic diversity",
+      "type": "similar to"
+    },
+    {
+      "source": "information elaboration (ie)",
+      "target": "epistemic diversity",
+      "type": "part of"
+    },
+    {
+      "source": "informational asymmetry",
+      "target": "informational injustice",
+      "type": "part of"
+    },
+    {
+      "source": "informational injustice",
+      "target": "epistemic injustice",
+      "type": "type of"
+    },
+    {
+      "source": "institutional passing",
+      "target": "diversity work",
+      "type": "part of"
+    },
+    {
+      "source": "interlacing",
+      "target": "epistemic injustice",
+      "type": "counteracts"
+    },
+    {
+      "source": "epistemic injustice",
+      "target": "interlacing",
+      "type": "counteracts"
+    },
+    {
+      "source": "liberatory epistemologies",
+      "target": "epistemological resistance movement",
+      "type": "similar to"
+    },
+    {
+      "source": "epistemological resistance movement",
+      "target": "liberatory epistemologies",
+      "type": "similar to"
+    },
+    {
+      "source": "liberatory epistemologies",
+      "target": "epistemologies of ignorance",
+      "type": "similar to"
+    },
+    {
+      "source": "epistemologies of ignorance",
+      "target": "liberatory epistemologies",
+      "type": "similar to"
+    },
+    {
+      "source": "linguistic bias",
+      "target": "linguistic injustice",
+      "type": "part of"
+    },
+    {
+      "source": "linguistic disfluency bias",
+      "target": "linguistic bias",
+      "type": "type of"
+    },
+    {
+      "source": "linguistic epistemic injustice",
+      "target": "epistemic injustice",
+      "type": "type of"
+    },
+    {
+      "source": "linguistic injustice",
+      "target": "linguistic epistemic injustice",
+      "type": "produces"
+    },
+    {
+      "source": "linguistic stereotype bias",
+      "target": "linguistic bias",
+      "type": "type of"
+    },
+    {
+      "source": "loving ignorance",
+      "target": "willful ignorance",
+      "type": "counteracts"
+    },
+    {
+      "source": "willful ignorance",
+      "target": "loving ignorance",
+      "type": "counteracts"
+    },
+    {
+      "source": "loving ignorance",
+      "target": "world traveling",
+      "type": "similar to"
+    },
+    {
+      "source": "world traveling",
+      "target": "loving ignorance",
+      "type": "similar to"
+    },
+    {
+      "source": "microagression",
+      "target": "testimonial injustice",
+      "type": "produces"
+    },
+    {
+      "source": "microagression",
+      "target": "hermeneutical marginalization",
+      "type": "produces"
+    },
+    {
+      "source": "non-dominant hermeneutical marginalization",
+      "target": "testimonial injustice",
+      "type": "produces"
+    },
+    {
+      "source": "novelty",
+      "target": "scientific discovery",
+      "type": "part of"
+    },
+    {
+      "source": "participatory epistemic injustice",
+      "target": "epistemic injustice",
+      "type": "type of"
+    },
+    {
+      "source": "participatory epistemic injustice",
+      "target": "testimonial injustice",
+      "type": "similar to"
+    },
+    {
+      "source": "testimonial injustice",
+      "target": "participatory epistemic injustice",
+      "type": "similar to"
+    },
+    {
+      "source": "primary distributive epistemic injustice",
+      "target": "distributive epistemic injustice",
+      "type": "type of"
+    },
+    {
+      "source": "reinstatement remedies",
+      "target": "epistemic severing",
+      "type": "counteracts"
+    },
+    {
+      "source": "epistemic severing",
+      "target": "reinstatement remedies",
+      "type": "counteracts"
+    },
+    {
+      "source": "science fiction",
+      "target": "novelty",
+      "type": "produces"
+    },
+    {
+      "source": "scientific discovery",
+      "target": "epistemic diversity",
+      "type": "produces"
+    },
+    {
+      "source": "scientific/intellectual movement (sim)",
+      "target": "epistemic injustice",
+      "type": "counteracts"
+    },
+    {
+      "source": "epistemic injustice",
+      "target": "scientific/intellectual movement (sim)",
+      "type": "counteracts"
+    },
+    {
+      "source": "second-level surplus information",
+      "target": "surplus information",
+      "type": "type of"
+    },
+    {
+      "source": "second order epistemic exclusion",
+      "target": "epistemic oppression",
+      "type": "type of"
+    },
+    {
+      "source": "second order epistemic exclusion",
+      "target": "hermeneutical injustice",
+      "type": "similar to"
+    },
+    {
+      "source": "hermeneutical injustice",
+      "target": "second order epistemic exclusion",
+      "type": "similar to"
+    },
+    {
+      "source": "second order epistemic exclusion",
+      "target": "epistemic exclusion",
+      "type": "type of"
+    },
+    {
+      "source": "secondary distributive epistemic injustice",
+      "target": "distributive epistemic injustice",
+      "type": "type of"
+    },
+    {
+      "source": "sexist values",
+      "target": "epistemic oppression",
+      "type": "produces"
+    },
+    {
+      "source": "situated knowledge thesis",
+      "target": "standpoint theory",
+      "type": "part of"
+    },
+    {
+      "source": "situated knowledges",
+      "target": "situated knowledge thesis",
+      "type": "part of"
+    },
+    {
+      "source": "situated knowledges",
+      "target": "epistemic diversity",
+      "type": "produces"
+    },
+    {
+      "source": "situational diversity",
+      "target": "epistemic diversity",
+      "type": "produces"
+    },
+    {
+      "source": "standpoint theory",
+      "target": "epistemic diversity",
+      "type": "depends on"
+    },
+    {
+      "source": "stereotype threat",
+      "target": "epistemic exploitation",
+      "type": "part of"
+    },
+    {
+      "source": "strong objectivitiy",
+      "target": "standpoint theory",
+      "type": "part of"
+    },
+    {
+      "source": "strong objectivitiy",
+      "target": "epistemic diversity",
+      "type": "depends on"
+    },
+    {
+      "source": "strong objectivitiy",
+      "target": "distributive epistemic injustice",
+      "type": "counteracts"
+    },
+    {
+      "source": "distributive epistemic injustice",
+      "target": "strong objectivitiy",
+      "type": "counteracts"
+    },
+    {
+      "source": "structural identity prejudices",
+      "target": "hermeneutical injustice",
+      "type": "produces"
+    },
+    {
+      "source": "structural testimonial injustice",
+      "target": "testimonial injustice",
+      "type": "part of"
+    },
+    {
+      "source": "surplus information",
+      "target": "informational asymmetry",
+      "type": "part of"
+    },
+    {
+      "source": "systematic testimonial injustice",
+      "target": "testimonial injustice",
+      "type": "type of"
+    },
+    {
+      "source": "systemic situated knowledge thesis",
+      "target": "situated knowledge thesis",
+      "type": "type of"
+    },
+    {
+      "source": "systemic situated knowledge thesis",
+      "target": "standpoint theory",
+      "type": "part of"
+    },
+    {
+      "source": "testimonial betrayal",
+      "target": "testimonial injustice",
+      "type": "produces"
+    },
+    {
+      "source": "testimonial death",
+      "target": "epistemic death",
+      "type": "part of"
+    },
+    {
+      "source": "testimonial injustice",
+      "target": "epistemic injustice",
+      "type": "type of"
+    },
+    {
+      "source": "the novelty tax",
+      "target": "epistemic exploitation",
+      "type": "part of"
+    },
+    {
+      "source": "third order epistemic exclusion",
+      "target": "epistemic oppression",
+      "type": "type of"
+    },
+    {
+      "source": "third order epistemic exclusion",
+      "target": "epistemic exclusion",
+      "type": "type of"
+    },
+    {
+      "source": "transactional testimonial injustice",
+      "target": "testimonial injustice",
+      "type": "produces"
+    },
+    {
+      "source": "transient diversity",
+      "target": "epistemic diversity",
+      "type": "type of"
+    },
+    {
+      "source": "triangulation explanation",
+      "target": "epistemic diversity",
+      "type": "depends on"
+    },
+    {
+      "source": "triangulation explanation",
+      "target": "feminist empiricism",
+      "type": "part of"
+    },
+    {
+      "source": "unwarranted exclusion",
+      "target": "hermeneutical marginalization",
+      "type": "produces"
+    },
+    {
+      "source": "unwarranted exclusion",
+      "target": "epistemic exclusion",
+      "type": "type of"
+    },
+    {
+      "source": "warranted exclusion",
+      "target": "epistemic disadvantage",
+      "type": "produces"
+    },
+    {
+      "source": "warranted exclusion",
+      "target": "epistemic exclusion",
+      "type": "type of"
+    },
+    {
+      "source": "well-ordered science",
+      "target": "strong objectivity",
+      "type": "similar to"
+    },
+    {
+      "source": "strong objectivity",
+      "target": "well-ordered science",
+      "type": "similar to"
+    },
+    {
+      "source": "well-ordered science",
+      "target": "epistemic diversity",
+      "type": "depends on"
+    },
+    {
+      "source": "white ignorance",
+      "target": "hermeneutical injustice",
+      "type": "produces"
+    },
+    {
+      "source": "willful hermeneutical ignorance",
+      "target": "hermeneutical injustice",
+      "type": "type of"
+    },
+    {
+      "source": "willful hermeneutical ignorance",
+      "target": "epistemic oppression",
+      "type": "produces"
+    },
+    {
+      "source": "willful ignorance",
+      "target": "epistemologies of ignorance",
+      "type": "part of"
+    },
+    {
+      "source": "world traveling",
+      "target": "epistemic oppression",
+      "type": "counteracts"
+    },
+    {
+      "source": "epistemic oppression",
+      "target": "world traveling",
+      "type": "counteracts"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+.md-nav__list {
+    font-weight: bold;
+}
+[data-md-color-scheme="default"] {
+  --md-default-bg-color: bisque;
+}

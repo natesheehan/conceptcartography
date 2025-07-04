@@ -2,7 +2,7 @@
 
 ## 📖 Definitions
 
-> Narrators' choices about what to foreground when recounting history of science, benign form of epistemic severing
+> "...epistemic ‘blinkering’, as one might call it, that inevitably accompanies any scientific narrative, where the narrator can of course always choose to foreground some pieces of information and background others depending on their relevance to the narrative and on basis of important ethical considerations too" (Massimi 2022, 350).
 
 ## 🔗 Relations
 
@@ -10,7 +10,7 @@
 
 ## 📚 References
 
-- Massimi, Michela. Perspectival Realism. Oxford Studies in Philosophy of Science.Oxford University Press, 2022.
+- Massimi, Michela. 2022. _Perspectival Realism. Oxford Studies in Philosophy of Science_. Oxford University Press.
 
 ---
 

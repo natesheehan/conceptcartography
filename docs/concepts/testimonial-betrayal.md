@@ -2,7 +2,7 @@
 
 ## 📖 Definitions
 
-> "In intimate relationships forged by thick relations of trust, parties seek each other’s approval, often including recognition of their opinions on matters arising in the course of their interactions. In the context of such relationships, seeking approval need not take the form of an explicit request for approval; one party may just assume that the other party will take their opinion seriously given their purported relationship. Failure by one party to accord the recognition sought implicitly may be experienced by the other party as a betrayal of that thick relationship." (Wanderer 2017, 37); (cf. Maitra 2010, 198–200).
+> "In intimate relationships forged by thick relations of trust, parties seek each other’s approval, often including recognition of their opinions on matters arising in the course of their interactions. In the context of such relationships, seeking approval need not take the form of an explicit request for approval; one party may just assume that the other party will take their opinion seriously given their purported relationship. Failure by one party to accord the recognition sought implicitly may be experienced by the other party as a betrayal of that thick relationship." (Wanderer 2017, 37).
 
 ## 💡 Examples
 
@@ -15,8 +15,6 @@
 ## 📚 References
 
 - Wanderer, Jeremy. 2017. “Varieties of Testimonial Injustice.” In _The Routledge Handbook on Epistemic Injustice_, edited by Ian James Kidd, Gaile Pohlhaus, and José Medina. Routledge. https://philarchive.org/rec/WANVOT-4.
-
-- Maitra, Ishani. 2010. "The Nature of Epistemic Injustice." _Philosophical Books_ 51 (4): 195–211.
 
 ---
 

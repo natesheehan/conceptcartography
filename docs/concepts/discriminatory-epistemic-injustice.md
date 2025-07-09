@@ -2,7 +2,10 @@
 
 ## 📖 Definitions
 
-> fundatmentally a form of (direct or indirect)discrimination. e.g., the cause of testimonial injustice is a prejudice. Meant to leave room for a kind of epistemic injustice that is primarly "distributive injustice" i.e., someone receiving less than their fair share of an epistemic good, such as education or access to expert advice or information (Fricker 2007, 53; cf. David Coady 2010; 2017)
+> fundatmentally a form of (direct or indirect) discrimination (Fricker 2017, 53; cf. David Coady 2010; 2017)
+> 
+## 💡 Examples
+>  the cause of testimonial injustice is a prejudice, which is meant to leave room for a kind of epistemic injustice that is primarly "distributive injustice" i.e., someone receiving less than their fair share of an epistemic good, such as education or access to expert advice or information
 
 ## 🔗 Relations
 
